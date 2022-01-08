@@ -1,0 +1,16 @@
+{
+    "Name": "[CP] Diala's Cat Cafe",
+    "Author": "skellady",
+    "Version": "1.0.0",
+    "Description": "Adds a new NPC to town.",
+    "UniqueID": "skellady.dialacafe.CP",
+    "MinimumApiVersion": "1.0.0",
+    "UpdateKeys": [ "Nexus:???" ],
+"Dependencies": [
+    { "UniqueID": "Lumisteria.LumiTilesheetsIndoor" },
+    { "UniqueID": "KediDili.Tilesheets.CP"},
+  ],
+    "ContentPackFor": {
+   "UniqueID": "Pathoschild.ContentPatcher" 
+    }
+}
