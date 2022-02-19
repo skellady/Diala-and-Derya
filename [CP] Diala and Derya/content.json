@@ -1,0 +1,137 @@
+{
+  "Format": "1.24.0",
+  "CustomLocations": 
+  [
+    {
+      "Name": "Custom_DND_DialaCafe",
+      "FromMapFile": "assets/Maps/DialaCafe.tmx"
+    },
+    {
+      "Name": "Custom_DND_DDHouse",
+      "FromMapFile": "assets/Maps/DDHouse.tmx"
+    },
+    {
+      "Name": "Custom_DND_DDArea",
+      "FromMapFile": "assets/Maps/DDArea.tmx"
+    }
+  ],
+  "Changes": 
+  [
+    {
+      "Action": "EditMap",
+      "Target": "Maps/Town",
+      "PatchMode": "Replace",
+      "FromFile": "assets/Maps/DDVanillaPatch.tmx",
+      "FromArea": {
+        "X": 0,
+        "Y": 0,
+        "Width": 6,
+        "Height": 8
+      },
+      "ToArea": {
+        "X": 84,
+        "Y": 102,
+        "Width": 6,
+        "Height": 8
+      },
+
+    },
+    {
+      "Action": "EditMap",
+      "Target": "Maps/Town",
+      "AddWarps": 
+      [
+        "86 110 Custom_DND_DDArea 32 14",
+        "87 110 Custom_DND_DDArea 32 15"
+
+      ]
+    },
+    {
+      "Action": "EditMap",
+      "Target": "Maps/Custom_DND_DDArea",
+      "AddWarps": 
+      [
+        "33 14 Town 86 109",
+        "33 15 Town 87 109",
+
+      ]
+    },
+
+    {
+      "Action": "EditMap",
+      "Target": "Maps/Custom_DND_DialaCafe",
+      "AddWarps": 
+      [
+        "12 7 Custom_DND_DDHouse 5 30",
+        "13 7 Custom_DND_DDHouse 6 30",
+        "14 7 Custom_DND_DDHouse 7 30",
+        "26 20 Custom_DND_DDArea 7 11"
+      ]
+    },
+    {
+      "Action": "EditMap",
+      "Target": "Maps/Custom_DND_DDHouse",
+      "AddWarps":
+      [
+        "5 31 Custom_DND_DialaCafe 12 8",
+        "6 31 Custom_DND_DialaCafe 13 8",
+        "7 31 Custom_DND_DialaCafe 14 8",
+      ]
+    },
+
+          // Diala Sprites
+    {
+      "LogName": "Diala's Sprites",
+      "Action": "Load",
+      "Target": "Characters/Diala",
+      "FromFile": "assets/Characters/Diala.png",
+    },
+         // Diala Portraits
+    {
+      "LogName": "Diala's Portraits",
+      "Action": "Load",
+      "Target": "Portraits/Diala",
+      "FromFile": "assets/Portraits/Diala.png",
+    },
+        //Derya Sprites
+    {
+      "LogName": "Derya's Sprites",
+      "Action": "Load",
+      "Target": "Characters/Derya",
+      "FromFile": "assets/Characters/Derya.png",
+    },
+        //Derya Portraits
+    {
+      "LogName": "Derya's Portraits",
+      "Action": "Load",
+      "Target": "Portraits/Derya",
+      "FromFile": "assets/Portraits/Derya.png",
+    },
+        // Schedule and Dialogue
+    {
+      "LogName": "Schedule Blanks",
+      "Action": "Load",
+      "Target": "Characters/schedules/Diala, Characters/schedules/Derya",
+      "FromFile": "Data/Dialogue/blank.json",
+    },
+    {
+      "LogName": "Dialogue Blanks",
+      "Action": "Load",
+      "Target": "Characters/Dialogue/Diala, Characters/Dialogue/Derya",
+      "FromFile": "Data/Dialogue/blank.json",
+    },
+        // DD Includes
+    {
+      "Action": "Include",
+      "FromFile": "Data/FestivalDialogue.json, Data/DependencyData/CustomCompanions.json, Data/NPCData/Animations.json, Data/NPCData/Dispositions.json, Data/NPCData/Romance.json, Data/Dialogue/DialaDialogue.json, Data/Dialogue/DeryaDialogue.json, Data/schedules/DialaSchedule.json, Data/schedules/DeryaSchedule.json",
+    },
+        // Compat Includes
+
+        // Festival Includes 
+    {
+      "Action": "Include",
+      "FromFile": "Data/Festivals/locations/EggFestival.json, Data/Festivals/locations/FlowerDance.json, Data/Festivals/locations/Luau.json, Data/Festivals/locations/MoonlightJellies.json, Data/Festivals/locations/SVFair.json, Data/Festivals/locations/SpiritEve.json, Data/Festivals/locations/IceFestival.json, Data/Festivals/locations/WinterStar.json",
+    }, 
+    
+  ]
+}

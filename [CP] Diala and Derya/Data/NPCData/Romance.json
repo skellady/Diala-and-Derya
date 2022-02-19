@@ -1,0 +1,47 @@
+{
+  "Changes": 
+  [
+    //Engagement
+    {
+      "LogName": "Engagement Dialogue",
+      "Action": "EditData",
+      "Target": "Data/EngagementDialogue",
+      "Entries":
+      {
+        "Diala0": "{{i18n:Romance.Engagement.Diala0}}",
+        "Diala1": "{{i18n:Romance.Engagement.Diala1}}",
+
+        "Derya0": "{{i18n:Romance.Engagement.Derya0}}",
+        "Derya1": "{{i18n:Romance.Engagement.Derya1}}",
+
+      },
+    },
+    //Wedding Fix
+    {
+      "Action": "EditData",
+      "Target": "strings/StringsFromCSFiles",
+      "Entries":
+      {
+        "Utility.cs.5367": "{{i18n:Romance.FemaleWeddingFix.MaleFarmer1.Diala}}",
+        "Utility.cs.5369": "{{i18n:Romance.FemaleWeddingFix.FemaleFarmer1.Diala}}",
+        "Utility.cs.5371": "{{i18n:Romance.FemaleWeddingFix.MaleFarmer2.Diala}}",
+        "Utility.cs.5377": "{{i18n:Romance.FemaleWeddingFix.FemaleFarmer2.Diala}}",
+      },
+      "When": { "Relationship:Diala": "Engaged" },
+    },
+    //Relationship Dialogue
+    {
+      "LogName": "Relationship Dialogue",
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/Diala, Characters/Dialogue/Derya",
+      "Entries": 
+      {
+       "give_flowersA": "{{i18n: Romance.give.flowersA.{{TargetWithoutPath}} }}",
+       "give_flowersB": "{{i18n: Romance.give.flowersB.{{TargetWithoutPath}} }}",
+       "stardrop_gift": "{{i18n: Romance.stardrop.gift.{{TargetWithoutPath}} }}",
+       "rejectNPCA": "{{i18n: Romance.rejectNPCA.{{TargetWithoutPath}} }}",
+       "rejectNPCB": "{{i18n: Romance.rejectNPCB.{{TargetWithoutPath}} }}",
+      },
+    },
+  ]
+}

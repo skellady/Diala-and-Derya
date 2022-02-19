@@ -1,0 +1,22 @@
+{
+  "Changes": 
+  [
+    
+          //NPC Dispositions
+
+    {
+      "LogName": "NPC Dispositions",
+      "Action": "EditData",
+      "Target": "Data/NPCDispositions",
+      "Entries":
+      {
+        "Diala": "adult/polite/shy/positive/female/datable/null/Town/summer 26//Custom_DND_DDHouse 3 5/{{i18n:Name.Diala}}",
+        "Derya": "adult/polite/outgoing/positive/female/datable/null/Town/fall 20//Custom_DND_DDHouse 20 5/{{i18n:Name.Derya}}",
+      },
+
+    },
+
+
+
+  ]
+}

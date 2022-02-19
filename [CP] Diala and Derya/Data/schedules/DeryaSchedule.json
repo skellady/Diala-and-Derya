@@ -1,0 +1,18 @@
+{
+	"Changes": 
+	[
+		{
+			"LogName": "Derya's Base Schedule",
+			"Action": "EditData",
+			"Target": "Characters/schedules/Derya",
+			"Entries":
+			{
+				"spring": "610 Custom_DND_DDHouse 5 22 3/900 Custom_DND_DialaCafe 5 8 0/1200 Custom_DND_DDHouse 2 12 1/1400 SeedShop 16 29 3/1600 Custom_DND_DDHouse 26 26 0/2100 Custom_DND_DDHouse 21 5 0 Derya_sleep",
+				"summer": "610 Custom_DND_DDHouse 26 23 2/800 Custom_DND_DialaCafe 26 7 2/1600 Custom_DND_DDArea 21 22 2/1900 Saloon 26 18 2/2100 Custom_DND_DDHouse 4 5 0 Derya_sleep",
+				"fall": "610 Custom_DND_DDHouse 5 22 3/900 Custom_DND_DialaCafe 5 8 0/1200 Custom_DND_DDHouse 2 12 1/1400 SeedShop 16 29 3/1600 Custom_DND_DDHouse 26 26 0/2100 Custom_DND_DDHouse 21 5 0 Derya_sleep",
+				"winter": "610 Custom_DND_DDHouse 26 23 2/800 Custom_DND_DialaCafe 26 7 2/1600 Custom_DND_DDArea 21 22 2/1900 Saloon 26 18 2/2100 Custom_DND_DDHouse 4 5 0 Derya_sleep",
+			}
+		}
+	]
+  
+}

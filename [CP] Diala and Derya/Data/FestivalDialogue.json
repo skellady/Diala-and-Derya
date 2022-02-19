@@ -1,0 +1,118 @@
+{
+	"Changes":
+	[
+		//egg festival
+		{
+			"LogName": "EggFestival",
+			"Action": "EditData",
+			"Target": "Data/Festivals/spring13",
+			"Entries": 
+			{
+				"Diala": "{{i18n:Festivals.EggFest.Diala}}",
+				"Diala_spouse": "{{i18n:Festivals.EggFest.Diala_spouse}}",
+				"Derya": "{{i18n:Festivals.EggFest.Derya}}",
+				"Derya_spouse": "{{i18n:Festivals.EggFest.Derya_spouse}}",
+
+			},
+
+		},
+		//flower dance
+		{
+			"LogName": "FlowerDance",
+			"Action": "EditData",
+			"Target": "Data/Festivals/spring24",
+			"Entries":
+			{
+				"Diala": "{{i18n:Festivals.FlowerDance.Diala}}",
+				"Diala_spouse": "{{i18n:Festivals.FlowerDance.Diala_spouse}}",
+				"Derya": "{{i18n:Festivals.FlowerDance.Derya}}",
+				"Derya_spouse": "{{i18n:Festivals.FlowerDance.Derya_spouse}}",
+
+			},
+		},
+		//luau
+		{
+			"LogName": "Luau",
+			"Action": "EditData",
+			"Target": "Data/Festivals/summer11",
+			"Entries":
+			{
+				"Diala": "{{i18n:Festivals.Luau.Diala}}",
+				"Diala_spouse": "{{i18n:Festivals.Luau.Diala_spouse}}",
+				"Derya": "{{i18n:Festivals.Luau.Derya}}",
+				"Derya_spouse": "{{i18n:Festivals.Luau.Derya_spouse}}",
+
+			},
+		},
+		//moonlight jellies
+		{
+			"LogName": "Jellies",
+			"Action": "EditData",
+			"Target": "Data/Festivals/summer28",
+			"Entries":
+			{
+				"Diala": "{{i18n:Festivals.Jellies.Diala}}",
+				"Diala_spouse": "{{i18n:Festivals.Jellies.Diala_spouse}}",
+				"Derya": "{{i18n:Festivals.Jellies.Derya}}",
+				"Derya_spouse": "{{i18n:Festivals.Jellies.Derya_spouse}}",
+
+			},
+		},
+		//stardew fair
+		{
+			"LogName": "SVFair",
+			"Action": "EditData",
+			"Target": "Data/Festivals/fall16",
+			"Entries":
+			{
+				"Diala": "{{i18n:Festivals.StardewFair.Diala}}",
+				"Diala_spouse": "{{i18n:Festivals.StardewFair.Diala_spouse}}",
+				"Derya": "{{i18n:Festivals.StardewFair.Derya}}",
+				"Derya_spouse": "{{i18n:Festivals.StardewFair.Derya_spouse}}",
+
+			},
+		},
+		//spirit's eve
+		{
+			"LogName": "SpiritEve",
+			"Action": "EditData",
+			"Target": "Data/Festivals/fall27",
+			"Entries":
+			{
+				"Diala": "{{i18n:Festivals.SpiritEve.Diala}}",
+				"Diala_spouse": "{{i18n:Festivals.SpiritEve.Diala_spouse}}",
+				"Derya": "{{i18n:Festivals.SpiritEve.Derya}}",
+				"Derya_spouse": "{{i18n:Festivals.SpiritEve.Derya_spouse}}",
+
+			},
+		},
+		//ice festival
+		{
+			"LogName": "IceFest",
+			"Action": "EditData",
+			"Target": "Data/Festivals/winter8",
+			"Entries":
+			{
+				"Diala": "{{i18n:Festivals.IceFest.Diala}}",
+				"Diala_spouse": "{{i18n:Festivals.IceFest.Diala_spouse}}",
+				"Derya": "{{i18n:Festivals.IceFest.Derya}}",
+				"Derya_spouse": "{{i18n:Festivals.IceFest.Derya_spouse}}",
+
+			},
+		},
+		//winterstar
+		{
+			"LogName": "WinterStar",
+			"Action": "EditData",
+			"Target": "Data/Festivals/winter25",
+			"Entries":
+			{
+				"Diala": "{{i18n:Festivals.WinterStar.Diala}}",
+				"Diala_spouse": "{{i18n:Festivals.WinterStar.Diala_spouse}}",
+				"Derya": "{{i18n:Festivals.WinterStar.Derya}}",
+				"Derya_spouse": "{{i18n:Festivals.WinterStar.Derya_spouse}}",
+			},
+		},
+	]
+	
+}

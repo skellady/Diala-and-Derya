@@ -1,0 +1,19 @@
+{
+	"Changes":
+	[
+		{
+			"LogName": "Diala's Base Schedule",
+			"Action": "EditData",
+			"Target": "Characters/schedules/Diala",
+			"Entries":
+			{
+				"spring": "610 Custom_DND_DDHouse 26 23 2/800 Custom_DND_DialaCafe 26 7 2/1600 Custom_DND_DDArea 21 22 2 diala_read/1900 Saloon 26 18 2/2100 Custom_DND_DDHouse 4 5 0 diala_sleep",
+				"summer": "610 Custom_DND_DDHouse 26 23 2/800 Custom_DND_DialaCafe 26 7 2/1600 Custom_DND_DDArea 21 22 2/1900 Saloon 26 18 2/2100 Custom_DND_DDHouse 4 5 0 diala_sleep",
+				"fall": "610 Custom_DND_DDHouse 26 23 2/800 Custom_DND_DialaCafe 26 7 2/1600 Custom_DND_DDArea 21 22 2/1900 Saloon 26 18 2/2100 Custom_DND_DDHouse 4 5 0 diala_sleep",
+				"winter": "610 Custom_DND_DDHouse 26 23 2/800 Custom_DND_DialaCafe 26 7 2/1600 Custom_DND_DDArea 21 22 2/1900 Saloon 26 18 2/2100 Custom_DND_DDHouse 4 5 0 diala_sleep",
+
+			}
+		}
+	]
+  
+}

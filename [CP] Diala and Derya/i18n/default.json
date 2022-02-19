@@ -1,0 +1,312 @@
+{
+	//Display Names
+    //-------------
+    "Name.Diala": "Diala",
+    "Name.Derya": "Derya",
+
+    //Gift Taste Dialogue
+	//-------------------
+	//Love
+	"Gift.Love.Diala": "Oh, this is wonderful! Thank you, @!",
+	"Gift.Love.Derya": "For me? Thank you, I love it!",
+	//Like
+	"Gift.Like.Diala": "Aw, this is a nice gift. Thank you!",
+	"Gift.Like.Derya": "I appreciate it, thank you, @!",
+	//Dislike
+	"Gift.Dislike.Diala": "Uh...thanks, I guess?",
+	"Gift.Dislike.Derya": "What's this? I'm...not sure I like it very much.",
+	//Hate
+	"Gift.Hate.Diala": "@? I don't think you should be going around giving this to people.",
+	"Gift.Hate.Derya": "I don't think even the cats at the cafe would like this, @.",
+	//Neutral
+	"Gift.Neutral.Diala": "Hopefully Derya won't notice if I put this in his room.",
+	"Gift.Neutral.Derya": "Uh, thanks.", 
+
+	//Event Dialogue
+	//--------------
+
+	//Movie Reactions
+	//---------------
+
+	//Map Strings
+	//-----------
+
+	//Festival Dialogue
+	//-----------------
+
+	//Egg Festival
+	"Festivals.EggFest.Diala": "Derya and I helped Emily with painting the eggs!$h#$b#Look for the splotchy ones if you're participating, those are Derya's.$h",
+	"Festivals.EggFest.Diala_spouse": "Hi, love! Would you like a good luck kiss for the egg hunt?$h#$b#No, I'm not using the egg hunt as an excuse.$4",
+	"Festivals.EggFest.Derya": "Diala wanted to put her bunny ears on me for the festival. Little does she know, I hid them last night.$h",
+    "Festivals.EggFest.Derya_spouse": "Honey, what do all the eggs want to do when the egg hunt starts?$h#$b#Scramble!$h",
+
+    //Flower Dance
+    "Festivals.FlowerDance.Diala": "I'm conflicted between wanting to dance and staying out of it so I can take some embarrassing pictures of Derya dancing.$h",
+    "Festivals.FlowerDance.Diala_spouse": "You look wonderful, my love. Let me take a picture of you before the dance starts.$4",
+    "Festivals.FlowerDance.Derya": "Don't get me wrong, I love these festivals, I just wish I could stay home with the cats instead.$h",
+    "Festivals.FlowerDance.Derya_spouse": "Hey, honey. Why don't you give me a kiss?$4#$b#Or should I say...let's put our tulips together.$u#$b#Okay, okay, I'll stop.$h",
+
+    //Luau
+    "Festivals.Luau.Diala": "I put some herbs from my garden into the soup.#$b#...Some seasoning too when Marnie wasn't looking. No one wants to eat bland soup.$h",
+    "Festivals.Luau.Diala_spouse": "Hey, love. Wanna go for a swim before they start? The water's really nice this time of year.$h",
+    "Festivals.Luau.Derya": "I forgot to get something for the soup so I'm taking credit for whatever Diala puts in.$u#$b#If it's something bad, I had absolutely nothing to do with it.$h",
+    "Festivals.Luau.Derya_spouse": "Hey, honey. You make the best soup...you must be a soup-erstar.$u",
+
+    //Moonlight Jellies
+    "Festivals.Jellies.Diala": "You should see how wide Derya's eyes get when the jellyfish show up, it's adorable!$h",
+    "Festivals.Jellies.Diala_spouse": "I love watching the jellyfish with you. I get to have two breathtaking views around me.$h",
+    "Festivals.Jellies.Derya": "I'm almost sure I saw Diala doze off twice. Not because she's bored, but she's not one to stay up this late usually.$h",
+    "Festivals.Jellies.Derya_spouse": "No puns today, I just wanna enjoy the view with the love of my life.$h",
+
+    //Stardew Fair
+    "Festivals.StardewFair.Diala": "I kicked Derya's ass at the slingshot game! I'm gonna hold this over him forever.$h",
+    "Festivals.StardewFair.Diala_spouse": "Hey, wanna try some of the games with me? Loser makes dinner!$h",
+    "Festivals.StardewFair.Derya": "I'm not gonna lie, I'm mostly here for Gus' food. It's delicious!$h",
+    "Festivals.StardewFair.Derya_spouse": "Honey, look at me. We're gonna win this thing and then you're gonna get me that fedora from the prize stall.$h",
+
+    //Spirit's Eve
+    "Festivals.SpiritEve.Diala": "Derya and I are both easily scared, but it's all a matter of who jump-scares the other first.$h",
+    "Festivals.SpiritEve.Diala_spouse": "Tell me all about the maze later, my love.$h#$b#I'll just...stay here, away from the creepy moving hands.$s",
+    "Festivals.SpiritEve.Derya": "I know Diala is planning to jump-scare me, I'm keeping an eye out for any funny business.$h",
+    "Festivals.SpiritEve.Derya_spouse": "Arrr, wanna search me for treasure?$u",
+
+    //Ice Festival
+    "Festivals.IceFest.Diala": "It sure is cold out here, huh?#$b#I was planning on staying in but Derya wants to build a snowman.$h",
+    "Festivals.IceFest.Diala_spouse": "Hey, love. Come closer, let me warm you up before the competition.$4",
+    "Festivals.IceFest.Derya": "Hey, @! Wanna help me and Diala build a snowman?$h#$b#Ooh, maybe we can make snow angels too!$h",
+    "Festivals.IceFest.Derya_spouse": "Hey, honey. You're gonna do great at the fishing competition, you're fin-tastic!$u",
+
+    //WinterStar
+
+   "Festivals.WinterStar.Diala": "Happy Winter Star, @! I got my secret friend a batch of chocolate chip cookies!$h#$b#I also made some cat-safe cookies for the cats.$h",
+   "Festivals.WinterStar.Diala_spouse": "I get to spend this holiday with the love of my life, what more could I ask for?$4",
+   "Festivals.WinterStar.Derya": "Happy holidays, @! I hope you've had a wonderful year.$h#$b#I got to cuddle the cats this morning, so I'm in a great mood.$h",
+   "Festivals.WinterStar.Derya_spouse": "I must be a snowflake, because I've fallen for you.$u#$b#Happy Winter Star, honey.$h",
+
+    //Romance Dialogue
+    //----------------
+
+    //Diala
+   "Romance.Engagement.Diala0": "You've made me the happiest person alive, @.$4",
+   "Romance.Engagement.Diala1": "I'm so lucky to have met you, love.$4.",
+   "Romance.FemaleWeddingFix.MaleFarmer1.Diala": "When @ first arrived in Pelican Town, no one knew if he'd fit in with our community...#$b#But from this day forward, @ is going to be as much a part of this town as any of us!$h#$b#It is my great honor on this day {0} of {1}, to unite @ and Diala in the bonds of marriage.",
+   "Romance.FemaleWeddingFix.MaleFarmer2.Diala": "@... Diala... #$b# As the mayor of Pelican Town, and regional bearer of the matrimonial seal, I now pronounce you husband and wife!$h", 
+   "Romance.FemaleWeddingFix.FemaleFarmer1.Diala": "When @ first arrived in Pelican Town, no one knew if she'd fit in with our community...#$b#But from this day forward, @ is going to be as much a part of this town as any of us!$h#$b#It is my great honor on this day {0} of {1}, to unite @ and Diala in the bonds of marriage.",
+   "Romance.FemaleWeddingFix.FemaleFarmer2.Diala": "@... Diala... #$b# As the mayor of Pelican Town, and regional bearer of the matrimonial seal, I now pronounce you wife and..., well, wife!$h",
+   "Romance.give.flowersA.Diala": "Wait...for me?$4#$b#Yes, of course, @! Nothing would make me happier.$4",
+   "Romance.give.flowersB.Diala": "Wait...for me?$4#$b#Yes, of course, @! Nothing would make me happier.$4",
+   "Romance.stardrop.gift.Diala": "Hey, love. You do so much for us and I wanted to do something for you in return.$4#$b#I love you, @. Thank you for being such a wonderful, supportive partner.",
+   "Romance.rejectNPCA.Diala": "Oh...$u#$b#I'm sorry, @. You're a great friend, I just don't see this going anywhere right now.$s",
+   "Romance.rejectNPCB.Diala": "Oh...$u#$b#I'm sorry, @. You're a great friend, I just don't see this going anywhere right now.$s",
+   "Romance.MovieInvite.Spouse.Diala": "Ooh, date night!$h#$b#I'll see you there, my love.",
+
+    //Derya
+   "Romance.Engagement.Derya0": "I'm in love with you, @.$4",
+   "Romance.Engagement.Derya1": "I can't believe I'm marrying the hottest person alive.$u",
+   "Romance.give.flowersA.Derya": "Pretty flowers you got there.#$b#What do you mean they're for me?$h#$b#...OH! Of course, I would love to be you boyfriend, @.$4",
+   "Romance.give.flowersB.Derya": "Pretty flowers you got there.#$b#What do you mean they're for me?$h#$b#...OH! Of course, I would love to be you boyfriend, @.$4",
+   "Romance.stardrop.gift.Derya": "I never expected to feel this way about someone. I can't seem to put my feelings into words right now, so I hope this gift conveys them instead.$4#$b#Thank you for loving me and laughing at all my bad puns.$h",
+   "Romance.rejectNPCA.Derya": "Sorry, @. I'm not into you like that, I hope you understand.$s",
+   "Romance.rejectNPCB.Derya": "Sorry, @. I'm not into you like that, I hope you understand.$s",
+   "Romance.MovieInvite.Spouse.Derya": "Movie night? Great!$h#$b#I'll take care of the snacks, honey.$u",
+
+
+	//Dialogue
+	//--------
+
+    //Diala
+    "Diala.Dialogue.Introduction": "Hi! I'm Diala. You must be the new farmer who just moved in!$h#$b#It's nice to meet you! I co-own D&D's Cat Cafe in town, you should come by soon.$h",
+    //Spring
+    "Diala.Dialogue.spring_1": "The beginning of spring always feels more exciting than other seasons for some reason.$h",
+    "Diala.Dialogue.spring_12": "Hey, @! Are you participating in the egg hunt tomorrow?$h",
+    "Diala.Dialogue.spring_23": "I'm still trying to pick a cute outfit for the dance tomorrow, maybe I'll get Derya to help me out.",
+    //Summer
+    "Diala.Dialogue.summer_1": "Placeholder",
+    "Diala.Dialogue.summer_10": "Placeholder",
+    "Diala.Dialogue.summer_27": "Placeholder",
+    //Fall
+    "Diala.Dialogue.fall_1": "Placeholder",
+    "Diala.Dialogue.fall_15": "Placeholder",
+    "Diala.Dialogue.fall_26": "Placeholder",
+    //Winter
+    "Diala.Dialogue.winter_1": "Placeholder",
+    "Diala.Dialogue.winter_7": "Placeholder",
+    "Diala.Dialogue.winter_14": "Placeholder",
+    "Diala.Dialogue.winter_16": "Placeholder",
+    "Diala.Dialogue.winter_24": "Placeholder",
+
+    //Days of The Week
+
+    //0 hearts
+    "Diala.Dialogue.Mon": "Placeholder",
+    "Diala.Dialogue.Tue": "Placeholder",
+    "Diala.Dialogue.Wed": "Placeholder",
+    "Diala.Dialogue.Thu": "Placeholder",
+    "Diala.Dialogue.Fri": "Placeholder",
+    "Diala.Dialogue.Sat": "Placeholder",
+    "Diala.Dialogue.Sun": "Placeholder",
+
+    //2 hearts
+    "Diala.Dialogue.Mon2": "Placeholder",
+    "Diala.Dialogue.Tue2": "Placeholder",
+    "Diala.Dialogue.Wed2": "Placeholder",
+    "Diala.Dialogue.Thu2": "Placeholder",
+    "Diala.Dialogue.Fri2": "Placeholder",
+    "Diala.Dialogue.Sat2": "Placeholder",
+    "Diala.Dialogue.Sun2": "Placeholder",
+
+    //4 hearts
+    "Diala.Dialogue.Mon4": "Placeholder",
+    "Diala.Dialogue.Tue4": "Placeholder",
+    "Diala.Dialogue.Wed4": "Placeholder",
+    "Diala.Dialogue.Thu4": "Placeholder",
+    "Diala.Dialogue.Fri4": "Placeholder",
+    "Diala.Dialogue.Sat4": "Placeholder",
+    "Diala.Dialogue.Sun4": "Placeholder",
+
+    //6 hearts
+    "Diala.Dialogue.Mon6": "Placeholder",
+    "Diala.Dialogue.Tue6": "Placeholder",
+    "Diala.Dialogue.Wed6": "Placeholder",
+    "Diala.Dialogue.Thu6": "Placeholder",
+    "Diala.Dialogue.Fri6": "Placeholder",
+    "Diala.Dialogue.Sat6": "Placeholder",
+    "Diala.Dialogue.Sun6": "Placeholder",
+
+    //8 hearts
+    "Diala.Dialogue.Mon8": "Placeholder",
+    "Diala.Dialogue.Tue8": "Placeholder",
+    "Diala.Dialogue.Wed8": "Placeholder",
+    "Diala.Dialogue.Thu8": "Placeholder",
+    "Diala.Dialogue.Fri8": "Placeholder",
+    "Diala.Dialogue.Sat8": "Placeholder",
+    "Diala.Dialogue.Sun8": "Placeholder",
+
+    //10 hearts
+    "Diala.Dialogue.Mon10": "Placeholder",
+    "Diala.Dialogue.Tue10": "Placeholder",
+    "Diala.Dialogue.Wed10": "Placeholder",
+    "Diala.Dialogue.Thu10": "Placeholder",
+    "Diala.Dialogue.Fri10": "Placeholder",
+    "Diala.Dialogue.Sat10": "Placeholder",
+    "Diala.Dialogue.Sun10": "Placeholder",
+
+    //Other Dialogue
+    "Diala.Dialogue.breakUp": "Placeholder",
+    "Diala.Dialogue.danceRejection": "Placeholder",
+    "Diala.Dialogue.divorced": "Placeholder",
+    "Diala.Dialogue.MovieInvitation": "Placeholder",
+
+    //Resort Dialogue
+    "Diala.Dialogue.Resort_Entering": "Placeholder",
+    "Diala.Dialogue.Resort_Leaving": "Placeholder",
+    "Diala.Dialogue.Resort_Leaving2": "Placeholder",
+    "Diala.Dialogue.Resort_Shore": "Placeholder",
+    "Diala.Dialogue.Resort_Shore2": "Placeholder",
+    "Diala.Dialogue.Resort_Umbrella": "Placeholder",
+    "Diala.Dialogue.Resort_Umbrella2": "Placeholder",
+    "Diala.Dialogue.Resort_Wander": "Placeholder",
+    "Diala.Dialogue.Resort_Bar": "Placeholder",
+    "Diala.Dialogue.Resort": "Placeholder",
+
+    
+    //Derya
+    "Derya.Dialogue.Introduction": "Hi! I'm Derya. You must be the new farmer who just moved in!$h#$b#It's nice to meet you! I co-own D&D's Cat Cafe in town, you should come by soon.$h",
+    //Spring
+    "Derya.Dialogue.spring_1": "The beginning of spring always feels more exciting than other seasons for some reason.$h",
+    "Derya.Dialogue.spring_12": "Hey, @! Are you participating in the egg hunt tomorrow?$h",
+    "Derya.Dialogue.spring_23": "I'm still trying to pick a cute outfit for the dance tomorrow, maybe I'll get Derya to help me out.",
+    //Summer
+    "Derya.Dialogue.summer_1": "Placeholder",
+    "Derya.Dialogue.summer_10": "Placeholder",
+    "Derya.Dialogue.summer_27": "Placeholder",
+    //Fall
+    "Derya.Dialogue.fall_1": "Placeholder",
+    "Derya.Dialogue.fall_15": "Placeholder",
+    "Derya.Dialogue.fall_26": "Placeholder",
+    //Winter
+    "Derya.Dialogue.winter_1": "Placeholder",
+    "Derya.Dialogue.winter_7": "Placeholder",
+    "Derya.Dialogue.winter_14": "Placeholder",
+    "Derya.Dialogue.winter_16": "Placeholder",
+    "Derya.Dialogue.winter_24": "Placeholder",
+
+    //Days of The Week
+
+    //0 hearts
+    "Derya.Dialogue.Mon": "Placeholder",
+    "Derya.Dialogue.Tue": "Placeholder",
+    "Derya.Dialogue.Wed": "Placeholder",
+    "Derya.Dialogue.Thu": "Placeholder",
+    "Derya.Dialogue.Fri": "Placeholder",
+    "Derya.Dialogue.Sat": "Placeholder",
+    "Derya.Dialogue.Sun": "Placeholder",
+
+    //2 hearts
+    "Derya.Dialogue.Mon2": "Placeholder",
+    "Derya.Dialogue.Tue2": "Placeholder",
+    "Derya.Dialogue.Wed2": "Placeholder",
+    "Derya.Dialogue.Thu2": "Placeholder",
+    "Derya.Dialogue.Fri2": "Placeholder",
+    "Derya.Dialogue.Sat2": "Placeholder",
+    "Derya.Dialogue.Sun2": "Placeholder",
+
+    //4 hearts
+    "Derya.Dialogue.Mon4": "Placeholder",
+    "Derya.Dialogue.Tue4": "Placeholder",
+    "Derya.Dialogue.Wed4": "Placeholder",
+    "Derya.Dialogue.Thu4": "Placeholder",
+    "Derya.Dialogue.Fri4": "Placeholder",
+    "Derya.Dialogue.Sat4": "Placeholder",
+    "Derya.Dialogue.Sun4": "Placeholder",
+
+    //6 hearts
+    "Derya.Dialogue.Mon6": "Placeholder",
+    "Derya.Dialogue.Tue6": "Placeholder",
+    "Derya.Dialogue.Wed6": "Placeholder",
+    "Derya.Dialogue.Thu6": "Placeholder",
+    "Derya.Dialogue.Fri6": "Placeholder",
+    "Derya.Dialogue.Sat6": "Placeholder",
+    "Derya.Dialogue.Sun6": "Placeholder",
+
+    //8 hearts
+    "Derya.Dialogue.Mon8": "Placeholder",
+    "Derya.Dialogue.Tue8": "Placeholder",
+    "Derya.Dialogue.Wed8": "Placeholder",
+    "Derya.Dialogue.Thu8": "Placeholder",
+    "Derya.Dialogue.Fri8": "Placeholder",
+    "Derya.Dialogue.Sat8": "Placeholder",
+    "Derya.Dialogue.Sun8": "Placeholder",
+
+    //10 hearts
+    "Derya.Dialogue.Mon10": "Placeholder",
+    "Derya.Dialogue.Tue10": "Placeholder",
+    "Derya.Dialogue.Wed10": "Placeholder",
+    "Derya.Dialogue.Thu10": "Placeholder",
+    "Derya.Dialogue.Fri10": "Placeholder",
+    "Derya.Dialogue.Sat10": "Placeholder",
+    "Derya.Dialogue.Sun10": "Placeholder",
+
+    //Other Dialogue
+    "Derya.Dialogue.breakUp": "Placeholder",
+    "Derya.Dialogue.danceRejection": "Placeholder",
+    "Derya.Dialogue.divorced": "Placeholder",
+    "Derya.Dialogue.MovieInvitation": "Placeholder",
+
+    //Resort Dialogue
+    "Derya.Dialogue.Resort_Entering": "Placeholder",
+    "Derya.Dialogue.Resort_Leaving": "Placeholder",
+    "Derya.Dialogue.Resort_Leaving2": "Placeholder",
+    "Derya.Dialogue.Resort_Shore": "Placeholder",
+    "Derya.Dialogue.Resort_Shore2": "Placeholder",
+    "Derya.Dialogue.Resort_Umbrella": "Placeholder",
+    "Derya.Dialogue.Resort_Umbrella2": "Placeholder",
+    "Derya.Dialogue.Resort_Wander": "Placeholder",
+    "Derya.Dialogue.Resort_Bar": "Placeholder",
+    "Derya.Dialogue.Resort": "Placeholder",
+    
+
+
+
+
+}
