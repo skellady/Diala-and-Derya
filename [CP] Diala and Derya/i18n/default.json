@@ -39,50 +39,51 @@
 	"Festivals.EggFest.Diala_spouse": "Hi, love! Would you like a good luck kiss for the egg hunt?$h#$b#No, I'm not using the egg hunt as an excuse.$4",
 	"Festivals.EggFest.Derya": "Diala wanted to put her bunny ears on me for the festival. Little does she know, I hid them last night.$h",
     "Festivals.EggFest.Derya_spouse": "Honey, what do all the eggs want to do when the egg hunt starts?$h#$b#Scramble!$h",
+    "Festivals.EggFest.Moon": "Placeholder",
 
     //Flower Dance
     "Festivals.FlowerDance.Diala": "I'm conflicted between wanting to dance and staying out of it so I can take some embarrassing pictures of Derya dancing.$h",
     "Festivals.FlowerDance.Diala_spouse": "You look wonderful, my love. Let me take a picture of you before the dance starts.$4",
     "Festivals.FlowerDance.Derya": "Don't get me wrong, I love these festivals, I just wish I could stay home with the cats instead.$h",
     "Festivals.FlowerDance.Derya_spouse": "Hey, honey. Why don't you give me a kiss?$4#$b#Or should I say...let's put our tulips together.$u#$b#Okay, okay, I'll stop.$h",
-
+    "Festivals.FlowerDance.Moon": "Placeholder",
     //Luau
     "Festivals.Luau.Diala": "I put some herbs from my garden into the soup.#$b#...Some seasoning too when Marnie wasn't looking. No one wants to eat bland soup.$h",
     "Festivals.Luau.Diala_spouse": "Hey, love. Wanna go for a swim before they start? The water's really nice this time of year.$h",
     "Festivals.Luau.Derya": "I forgot to get something for the soup so I'm taking credit for whatever Diala puts in.$u#$b#If it's something bad, I had absolutely nothing to do with it.$h",
     "Festivals.Luau.Derya_spouse": "Hey, honey. You make the best soup...you must be a soup-erstar.$u",
-
+    "Festivals.Luau.Moon": "Placeholder",
     //Moonlight Jellies
     "Festivals.Jellies.Diala": "You should see how wide Derya's eyes get when the jellyfish show up, it's adorable!$h",
     "Festivals.Jellies.Diala_spouse": "I love watching the jellyfish with you. I get to have two breathtaking views around me.$h",
     "Festivals.Jellies.Derya": "I'm almost sure I saw Diala doze off twice. Not because she's bored, but she's not one to stay up this late usually.$h",
     "Festivals.Jellies.Derya_spouse": "No puns today, I just wanna enjoy the view with the love of my life.$h",
-
+    "Festivals.Jellies.Moon": "Placeholder",
     //Stardew Fair
     "Festivals.StardewFair.Diala": "I kicked Derya's ass at the slingshot game! I'm gonna hold this over him forever.$h",
     "Festivals.StardewFair.Diala_spouse": "Hey, wanna try some of the games with me? Loser makes dinner!$h",
     "Festivals.StardewFair.Derya": "I'm not gonna lie, I'm mostly here for Gus' food. It's delicious!$h",
     "Festivals.StardewFair.Derya_spouse": "Honey, look at me. We're gonna win this thing and then you're gonna get me that fedora from the prize stall.$h",
-
+    "Festivals.StardewFair.Moon": "Placeholder",
     //Spirit's Eve
     "Festivals.SpiritEve.Diala": "Derya and I are both easily scared, but it's all a matter of who jump-scares the other first.$h",
     "Festivals.SpiritEve.Diala_spouse": "Tell me all about the maze later, my love.$h#$b#I'll just...stay here, away from the creepy moving hands.$s",
     "Festivals.SpiritEve.Derya": "I know Diala is planning to jump-scare me, I'm keeping an eye out for any funny business.$h",
     "Festivals.SpiritEve.Derya_spouse": "Arrr, wanna search me for treasure?$u",
-
+    "Festivals.SpiritEve.Moon": "Placeholder",
     //Ice Festival
     "Festivals.IceFest.Diala": "It sure is cold out here, huh?#$b#I was planning on staying in but Derya wants to build a snowman.$h",
     "Festivals.IceFest.Diala_spouse": "Hey, love. Come closer, let me warm you up before the competition.$4",
     "Festivals.IceFest.Derya": "Hey, @! Wanna help me and Diala build a snowman?$h#$b#Ooh, maybe we can make snow angels too!$h",
     "Festivals.IceFest.Derya_spouse": "Hey, honey. You're gonna do great at the fishing competition, you're fin-tastic!$u",
-
+    "Festivals.IceFest.Moon": "Placeholder",
     //WinterStar
 
    "Festivals.WinterStar.Diala": "Happy Winter Star, @! I got my secret friend a batch of chocolate chip cookies!$h#$b#I also made some cat-safe cookies for the cats.$h",
    "Festivals.WinterStar.Diala_spouse": "I get to spend this holiday with the love of my life, what more could I ask for?$4",
    "Festivals.WinterStar.Derya": "Happy holidays, @! I hope you've had a wonderful year.$h#$b#I got to cuddle the cats this morning, so I'm in a great mood.$h",
    "Festivals.WinterStar.Derya_spouse": "I must be a snowflake, because I've fallen for you.$u#$b#Happy Winter Star, honey.$h",
-
+   "Festivals.WinterStar.Moon": "Placeholder",
     //Romance Dialogue
     //----------------
 
@@ -103,6 +104,10 @@
     //Derya
    "Romance.Engagement.Derya0": "I'm in love with you, @.$4",
    "Romance.Engagement.Derya1": "I can't believe I'm marrying the hottest person alive.$u",
+   "Romance.FemaleWeddingFix.MaleFarmer1.Derya": "When @ first arrived in Pelican Town, no one knew if he'd fit in with our community...#$b#But from this day forward, @ is going to be as much a part of this town as any of us!$h#$b#It is my great honor on this day {0} of {1}, to unite @ and Diala in the bonds of marriage.",
+   "Romance.FemaleWeddingFix.MaleFarmer2.Derya": "@... Diala... #$b# As the mayor of Pelican Town, and regional bearer of the matrimonial seal, I now pronounce you husband and wife!$h", 
+   "Romance.FemaleWeddingFix.FemaleFarmer1.Derya": "When @ first arrived in Pelican Town, no one knew if she'd fit in with our community...#$b#But from this day forward, @ is going to be as much a part of this town as any of us!$h#$b#It is my great honor on this day {0} of {1}, to unite @ and Diala in the bonds of marriage.",
+   "Romance.FemaleWeddingFix.FemaleFarmer2.Derya": "@... Diala... #$b# As the mayor of Pelican Town, and regional bearer of the matrimonial seal, I now pronounce you wife and..., well, wife!$h",
    "Romance.give.flowersA.Derya": "Pretty flowers you got there.#$b#What do you mean they're for me?$h#$b#...OH! Of course, I would love to be you boyfriend, @.$4",
    "Romance.give.flowersB.Derya": "Pretty flowers you got there.#$b#What do you mean they're for me?$h#$b#...OH! Of course, I would love to be you boyfriend, @.$4",
    "Romance.stardrop.gift.Derya": "I never expected to feel this way about someone. I can't seem to put my feelings into words right now, so I hope this gift conveys them instead.$4#$b#Thank you for loving me and laughing at all my bad puns.$h",
@@ -116,18 +121,22 @@
 
     //Diala
     "Diala.Dialogue.Introduction": "Hi! I'm Diala. You must be the new farmer who just moved in!$h#$b#It's nice to meet you! I co-own D&D's Cat Cafe in town, you should come by soon.$h",
+
     //Spring
     "Diala.Dialogue.spring_1": "The beginning of spring always feels more exciting than other seasons for some reason.$h",
     "Diala.Dialogue.spring_12": "Hey, @! Are you participating in the egg hunt tomorrow?$h",
     "Diala.Dialogue.spring_23": "I'm still trying to pick a cute outfit for the dance tomorrow, maybe I'll get Derya to help me out.",
+
     //Summer
     "Diala.Dialogue.summer_1": "Placeholder",
     "Diala.Dialogue.summer_10": "Placeholder",
     "Diala.Dialogue.summer_27": "Placeholder",
+
     //Fall
     "Diala.Dialogue.fall_1": "Placeholder",
     "Diala.Dialogue.fall_15": "Placeholder",
     "Diala.Dialogue.fall_26": "Placeholder",
+
     //Winter
     "Diala.Dialogue.winter_1": "Placeholder",
     "Diala.Dialogue.winter_7": "Placeholder",
@@ -212,18 +221,22 @@
     
     //Derya
     "Derya.Dialogue.Introduction": "Hi! I'm Derya. You must be the new farmer who just moved in!$h#$b#It's nice to meet you! I co-own D&D's Cat Cafe in town, you should come by soon.$h",
+
     //Spring
     "Derya.Dialogue.spring_1": "The beginning of spring always feels more exciting than other seasons for some reason.$h",
     "Derya.Dialogue.spring_12": "Hey, @! Are you participating in the egg hunt tomorrow?$h",
     "Derya.Dialogue.spring_23": "I'm still trying to pick a cute outfit for the dance tomorrow, maybe I'll get Derya to help me out.",
+
     //Summer
     "Derya.Dialogue.summer_1": "Placeholder",
     "Derya.Dialogue.summer_10": "Placeholder",
     "Derya.Dialogue.summer_27": "Placeholder",
+
     //Fall
     "Derya.Dialogue.fall_1": "Placeholder",
     "Derya.Dialogue.fall_15": "Placeholder",
     "Derya.Dialogue.fall_26": "Placeholder",
+
     //Winter
     "Derya.Dialogue.winter_1": "Placeholder",
     "Derya.Dialogue.winter_7": "Placeholder",
@@ -305,7 +318,98 @@
     "Derya.Dialogue.Resort_Bar": "Placeholder",
     "Derya.Dialogue.Resort": "Placeholder",
     
+    //Moon
+    "Moon.Dialogue.Introduction": "Hi! I'm Moon. You must be the new farmer who just moved in!$h#$b#It's nice to meet you! I co-own D&D's Cat Cafe in town, you should come by soon.$h",
 
+    //Spring
+    "Moon.Dialogue.spring_1": "The beginning of spring always feels more exciting than other seasons for some reason.$h",
+    "Moon.Dialogue.spring_12": "Hey, @! Are you participating in the egg hunt tomorrow?$h",
+    "Moon.Dialogue.spring_23": "I'm still trying to pick a cute outfit for the dance tomorrow, maybe I'll get Derya to help me out.",
+
+    //Summer
+    "Moon.Dialogue.summer_1": "Placeholder",
+    "Moon.Dialogue.summer_10": "Placeholder",
+    "Moon.Dialogue.summer_27": "Placeholder",
+
+    //Fall
+    "Moon.Dialogue.fall_1": "Placeholder",
+    "Moon.Dialogue.fall_15": "Placeholder",
+    "Moon.Dialogue.fall_26": "Placeholder",
+
+    //Winter
+    "Moon.Dialogue.winter_1": "Placeholder",
+    "Moon.Dialogue.winter_7": "Placeholder",
+    "Moon.Dialogue.winter_14": "Placeholder",
+    "Moon.Dialogue.winter_16": "Placeholder",
+    "Moon.Dialogue.winter_24": "Placeholder",
+
+    //Days of The Week
+
+    //0 hearts
+    "Moon.Dialogue.Mon": "Placeholder",
+    "Moon.Dialogue.Tue": "Placeholder",
+    "Moon.Dialogue.Wed": "Placeholder",
+    "Moon.Dialogue.Thu": "Placeholder",
+    "Moon.Dialogue.Fri": "Placeholder",
+    "Moon.Dialogue.Sat": "Placeholder",
+    "Moon.Dialogue.Sun": "Placeholder",
+
+    //2 hearts
+    "Moon.Dialogue.Mon2": "Placeholder",
+    "Moon.Dialogue.Tue2": "Placeholder",
+    "Moon.Dialogue.Wed2": "Placeholder",
+    "Moon.Dialogue.Thu2": "Placeholder",
+    "Moon.Dialogue.Fri2": "Placeholder",
+    "Moon.Dialogue.Sat2": "Placeholder",
+    "Moon.Dialogue.Sun2": "Placeholder",
+
+    //4 hearts
+    "Moon.Dialogue.Mon4": "Placeholder",
+    "Moon.Dialogue.Tue4": "Placeholder",
+    "Moon.Dialogue.Wed4": "Placeholder",
+    "Moon.Dialogue.Thu4": "Placeholder",
+    "Moon.Dialogue.Fri4": "Placeholder",
+    "Moon.Dialogue.Sat4": "Placeholder",
+    "Moon.Dialogue.Sun4": "Placeholder",
+
+    //6 hearts
+    "Moon.Dialogue.Mon6": "Placeholder",
+    "Moon.Dialogue.Tue6": "Placeholder",
+    "Moon.Dialogue.Wed6": "Placeholder",
+    "Moon.Dialogue.Thu6": "Placeholder",
+    "Moon.Dialogue.Fri6": "Placeholder",
+    "Moon.Dialogue.Sat6": "Placeholder",
+    "Moon.Dialogue.Sun6": "Placeholder",
+
+    //8 hearts
+    "Moon.Dialogue.Mon8": "Placeholder",
+    "Moon.Dialogue.Tue8": "Placeholder",
+    "Moon.Dialogue.Wed8": "Placeholder",
+    "Moon.Dialogue.Thu8": "Placeholder",
+    "Moon.Dialogue.Fri8": "Placeholder",
+    "Moon.Dialogue.Sat8": "Placeholder",
+    "Moon.Dialogue.Sun8": "Placeholder",
+
+    //10 hearts
+    "Moon.Dialogue.Mon10": "Placeholder",
+    "Moon.Dialogue.Tue10": "Placeholder",
+    "Moon.Dialogue.Wed10": "Placeholder",
+    "Moon.Dialogue.Thu10": "Placeholder",
+    "Moon.Dialogue.Fri10": "Placeholder",
+    "Moon.Dialogue.Sat10": "Placeholder",
+    "Moon.Dialogue.Sun10": "Placeholder",
+    
+    //Resort Dialogue
+    "Moon.Dialogue.Resort_Entering": "Placeholder",
+    "Moon.Dialogue.Resort_Leaving": "Placeholder",
+    "Moon.Dialogue.Resort_Leaving2": "Placeholder",
+    "Moon.Dialogue.Resort_Shore": "Placeholder",
+    "Moon.Dialogue.Resort_Shore2": "Placeholder",
+    "Moon.Dialogue.Resort_Umbrella": "Placeholder",
+    "Moon.Dialogue.Resort_Umbrella2": "Placeholder",
+    "Moon.Dialogue.Resort_Wander": "Placeholder",
+    "Moon.Dialogue.Resort_Bar": "Placeholder",
+    "Moon.Dialogue.Resort": "Placeholder",
 
 
 
