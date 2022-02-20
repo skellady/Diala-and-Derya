@@ -93,37 +93,51 @@
       "Target": "Portraits/Diala",
       "FromFile": "assets/Portraits/Diala.png",
     },
-        //Derya Sprites
+        // Derya Sprites
     {
       "LogName": "Derya's Sprites",
       "Action": "Load",
       "Target": "Characters/Derya",
       "FromFile": "assets/Characters/Derya.png",
     },
-        //Derya Portraits
+        // Derya Portraits
     {
       "LogName": "Derya's Portraits",
       "Action": "Load",
       "Target": "Portraits/Derya",
       "FromFile": "assets/Portraits/Derya.png",
     },
+        // Moon Portraits
+    {
+      "LogName": "Moon's Portraits",
+      "Action": "Load",
+      "Target": "Portraits/Moon",
+      "FromFile": "assets/Portraits/Moon.png",
+    },
+        // Moon Sprites
+    {
+      "LogName": "Moon's Sprites",
+      "Action": "Load",
+      "Target": "Characters/Moon",
+      "FromFile": "assets/Characters/Moon.png"
+    },
         // Schedule and Dialogue
     {
       "LogName": "Schedule Blanks",
       "Action": "Load",
-      "Target": "Characters/schedules/Diala, Characters/schedules/Derya",
+      "Target": "Characters/schedules/Diala, Characters/schedules/Derya, Characters/schedules/Moon",
       "FromFile": "Data/Dialogue/blank.json",
     },
     {
       "LogName": "Dialogue Blanks",
       "Action": "Load",
-      "Target": "Characters/Dialogue/Diala, Characters/Dialogue/Derya",
+      "Target": "Characters/Dialogue/Diala, Characters/Dialogue/Derya, Characters/Dialogue/Moon",
       "FromFile": "Data/Dialogue/blank.json",
     },
         // DD Includes
     {
       "Action": "Include",
-      "FromFile": "Data/FestivalDialogue.json, Data/DependencyData/CustomCompanions.json, Data/NPCData/Animations.json, Data/NPCData/Dispositions.json, Data/NPCData/Romance.json, Data/Dialogue/DialaDialogue.json, Data/Dialogue/DeryaDialogue.json, Data/schedules/DialaSchedule.json, Data/schedules/DeryaSchedule.json",
+      "FromFile": "Data/FestivalDialogue.json, Data/DependencyData/CustomCompanions.json, Data/NPCData/Animations.json, Data/NPCData/Dispositions.json, Data/NPCData/Romance.json, Data/Dialogue/DialaDialogue.json, Data/Dialogue/DeryaDialogue.json, Data/Dialogue/MoonDialogue.json, Data/schedules/MoonSchedule.json, Data/schedules/DialaSchedule.json, Data/schedules/DeryaSchedule.json",
     },
         // Compat Includes
 
