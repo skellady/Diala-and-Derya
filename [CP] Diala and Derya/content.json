@@ -3,7 +3,7 @@
   "CustomLocations": 
   [
     {
-      "Name": "Custom_ESHouse4",
+      "Name": "Custom_DND_DialaCafe",
       "FromMapFile": "assets/Maps/DialaCafe.tmx"
     },
     {
@@ -29,7 +29,7 @@
       "Layer": "Buildings",
       "SetProperties":
         {
-          "Action": "Warp 26 18 Custom_ESHouse4"
+          "Action": "Warp 26 18 Custom_DND_DialaCafe"
         }
           }
   ],
@@ -37,7 +37,7 @@
     },
     {
       "Action": "EditMap",
-      "Target": "Maps/Custom_ESHouse4",
+      "Target": "Maps/Custom_DND_DialaCafe",
       "AddWarps": 
       [
         "12 7 Custom_DND_DDHouse 5 30",
@@ -51,9 +51,9 @@
       "Target": "Maps/Custom_DND_DDHouse",
       "AddWarps":
       [
-        "5 31 Custom_ESHouse4 12 8",
-        "6 31 Custom_ESHouse4 13 8",
-        "7 31 Custom_ESHouse4 14 8",
+        "5 31 Custom_DND_DialaCafe 12 8",
+        "6 31 Custom_DND_DialaCafe 13 8",
+        "7 31 Custom_DND_DialaCafe 14 8",
       ]
     },
 
