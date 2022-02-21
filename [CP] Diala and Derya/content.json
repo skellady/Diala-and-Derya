@@ -57,49 +57,23 @@
       ]
     },
 
-          // Diala Sprites
+
+          // Sprites + Portraits
     {
-      "LogName": "Diala's Sprites",
+      "LogName": "Sprites",
       "Action": "Load",
-      "Target": "Characters/Diala",
-      "FromFile": "assets/Characters/Diala.png",
+      "Target": "Characters/Diala, Characters/Derya, Characters/Moon",
+      "FromFile": "assets/Characters/{{TargetWithoutPath}}.png",
     },
-         // Diala Portraits
+
     {
-      "LogName": "Diala's Portraits",
+      "LogName": "Portraits",
       "Action": "Load",
-      "Target": "Portraits/Diala",
-      "FromFile": "assets/Portraits/Diala.png",
+      "Target": "Portraits/Diala, Portraits/Derya, Portraits/Moon",
+      "FromFile": "assets/Portraits/{{TargetWithoutPath}}.png",
     },
-        // Derya Sprites
-    {
-      "LogName": "Derya's Sprites",
-      "Action": "Load",
-      "Target": "Characters/Derya",
-      "FromFile": "assets/Characters/Derya.png",
-    },
-        // Derya Portraits
-    {
-      "LogName": "Derya's Portraits",
-      "Action": "Load",
-      "Target": "Portraits/Derya",
-      "FromFile": "assets/Portraits/Derya.png",
-    },
-        // Moon Portraits
-    {
-      "LogName": "Moon's Portraits",
-      "Action": "Load",
-      "Target": "Portraits/Moon",
-      "FromFile": "assets/Portraits/Moon.png",
-    },
-        // Moon Sprites
-    {
-      "LogName": "Moon's Sprites",
-      "Action": "Load",
-      "Target": "Characters/Moon",
-      "FromFile": "assets/Characters/Moon.png"
-    },
-        // Schedule and Dialogue
+
+        // Schedule + Dialogue
     {
       "LogName": "Schedule Blanks",
       "Action": "Load",
