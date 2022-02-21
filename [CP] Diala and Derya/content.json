@@ -29,7 +29,7 @@
       "Layer": "Buildings",
       "SetProperties":
         {
-          "Action": "Warp 10 20 Custom_ESHouse4"
+          "Action": "Warp 26 18 Custom_ESHouse4"
         }
           }
   ],
