@@ -89,7 +89,7 @@
         // DD Includes
     {
       "Action": "Include",
-      "FromFile": "Data/FestivalDialogue.json, Data/DependencyData/CustomCompanions.json, Data/NPCData/Animations.json, Data/NPCData/Dispositions.json, Data/NPCData/Romance.json, Data/Dialogue/DialaDialogue.json, Data/Dialogue/DeryaDialogue.json, Data/Dialogue/MoonDialogue.json, Data/schedules/MoonSchedule.json, Data/schedules/DialaSchedule.json, Data/schedules/DeryaSchedule.json",
+      "FromFile": "Data/FestivalDialogue.json, Data/EventData.json, Data/DependencyData/CustomCompanions.json, Data/NPCData/Animations.json, Data/NPCData/Dispositions.json, Data/NPCData/Romance.json, Data/Dialogue/DialaDialogue.json, Data/Dialogue/DeryaDialogue.json, Data/Dialogue/MoonDialogue.json, Data/schedules/MoonSchedule.json, Data/schedules/DialaSchedule.json, Data/schedules/DeryaSchedule.json",
     },
         // Compat Includes
 
