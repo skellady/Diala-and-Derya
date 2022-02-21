@@ -3,69 +3,47 @@
   "CustomLocations": 
   [
     {
-      "Name": "Custom_DND_DialaCafe",
+      "Name": "Custom_ESHouse4",
       "FromMapFile": "assets/Maps/DialaCafe.tmx"
     },
     {
       "Name": "Custom_DND_DDHouse",
       "FromMapFile": "assets/Maps/DDHouse.tmx"
     },
-    {
-      "Name": "Custom_DND_DDArea",
-      "FromMapFile": "assets/Maps/DDArea.tmx"
-    }
+
   ],
   "Changes": 
   [
     {
       "Action": "EditMap",
-      "Target": "Maps/Town",
-      "PatchMode": "Replace",
-      "FromFile": "assets/Maps/DDVanillaPatch.tmx",
-      "FromArea": {
-        "X": 0,
-        "Y": 0,
-        "Width": 6,
-        "Height": 8
-      },
-      "ToArea": {
-        "X": 84,
-        "Y": 102,
-        "Width": 6,
-        "Height": 8
-      },
+      "Target": "Maps/Custom_EastScarpe",
+      "MapTiles":
+        [
+          {
+            "Position":
+              {
+                "X":5 ,
+                "Y":61
+              },
 
+      "Layer": "Buildings",
+      "SetProperties":
+        {
+          "Action": "Warp 10 20 Custom_ESHouse4"
+        }
+          }
+  ],
+      "When": { "HasMod: |contains=LemurKat.EastScarpe.CP": true },
     },
     {
       "Action": "EditMap",
-      "Target": "Maps/Town",
-      "AddWarps": 
-      [
-        "86 110 Custom_DND_DDArea 32 14",
-        "87 110 Custom_DND_DDArea 32 15"
-
-      ]
-    },
-    {
-      "Action": "EditMap",
-      "Target": "Maps/Custom_DND_DDArea",
-      "AddWarps": 
-      [
-        "33 14 Town 86 109",
-        "33 15 Town 87 109",
-
-      ]
-    },
-
-    {
-      "Action": "EditMap",
-      "Target": "Maps/Custom_DND_DialaCafe",
+      "Target": "Maps/Custom_ESHouse4",
       "AddWarps": 
       [
         "12 7 Custom_DND_DDHouse 5 30",
         "13 7 Custom_DND_DDHouse 6 30",
         "14 7 Custom_DND_DDHouse 7 30",
-        "26 20 Custom_DND_DDArea 7 11"
+        "26 20 Custom_EastScarpe 5 62",
       ]
     },
     {
@@ -73,9 +51,9 @@
       "Target": "Maps/Custom_DND_DDHouse",
       "AddWarps":
       [
-        "5 31 Custom_DND_DialaCafe 12 8",
-        "6 31 Custom_DND_DialaCafe 13 8",
-        "7 31 Custom_DND_DialaCafe 14 8",
+        "5 31 Custom_ESHouse4 12 8",
+        "6 31 Custom_ESHouse4 13 8",
+        "7 31 Custom_ESHouse4 14 8",
       ]
     },
 
