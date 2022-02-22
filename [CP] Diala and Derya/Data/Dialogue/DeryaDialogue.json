@@ -6,7 +6,7 @@
 			"Target": "Characters/Dialogue/Derya",
 			"Entries": 
 			{
-				"Introduction": "{{i18n:{{TargetWithoutPath}}.Dialogue.Introduction}}",
+            	"Introduction": "{{i18n:{{TargetWithoutPath}}.Dialogue.Introduction}}",
 
 				//spring
 				"spring_1": "{{i18n:Derya.Dialogue.spring_1}}",

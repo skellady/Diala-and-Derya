@@ -6,10 +6,9 @@
 			"Target": "Characters/Dialogue/Diala",
 			"Entries": 
 			{
-				"Introduction": "{{i18n:{{TargetWithoutPath}}.Dialogue.Introduction}}",
+            	"Introduction": "{{i18n:{{TargetWithoutPath}}.Dialogue.Introduction}}",
 
 				//spring
-				"spring_1": "{{i18n:Diala.Dialogue.spring_1}}",
 				"spring_12": "{{i18n:Diala.Dialogue.spring_12}}",
 				"spring_23": "{{i18n:Diala.Dialogue.spring_23}}",
 

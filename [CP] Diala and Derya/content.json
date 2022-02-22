@@ -57,7 +57,6 @@
       ]
     },
 
-
           // Sprites + Portraits
     {
       "LogName": "Sprites",
@@ -73,7 +72,7 @@
       "FromFile": "assets/Portraits/{{TargetWithoutPath}}.png",
     },
 
-        // Schedule + Dialogue
+        // Schedule + Dialogue + Events
     {
       "LogName": "Schedule Blanks",
       "Action": "Load",
@@ -86,10 +85,16 @@
       "Target": "Characters/Dialogue/Diala, Characters/Dialogue/Derya, Characters/Dialogue/Moon",
       "FromFile": "Data/Dialogue/blank.json",
     },
+    {
+      "Action": "Load",
+      "Target": "Data/Events/Custom_DND_DialaCafe",
+      "FromFile": "Data/Dialogue/blank.json",
+
+    },
         // DD Includes
     {
       "Action": "Include",
-      "FromFile": "Data/FestivalDialogue.json, Data/EventData.json, Data/DependencyData/CustomCompanions.json, Data/NPCData/Animations.json, Data/NPCData/Dispositions.json, Data/NPCData/Romance.json, Data/Dialogue/DialaDialogue.json, Data/Dialogue/DeryaDialogue.json, Data/Dialogue/MoonDialogue.json, Data/schedules/MoonSchedule.json, Data/schedules/DialaSchedule.json, Data/schedules/DeryaSchedule.json",
+      "FromFile": "Data/FestivalDialogue.json, Data/EventData.json, Data/DependencyData/CustomCompanions.json, Data/NPCData/Animations.json, Data/NPCData/Dispositions.json, Data/NPCData/Romance.json, Data/Dialogue/DialaDialogue.json, Data/Dialogue/DeryaDialogue.json, Data/Dialogue/MoonDialogue.json, Data/schedules/MoonSchedule.json, Data/schedules/DialaSchedule.json, Data/schedules/DeryaSchedule.json, Data/NPCData/GiftTasteData.json",
     },
         // Compat Includes
 

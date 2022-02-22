@@ -10,18 +10,23 @@
 	//Love
 	"Gift.Love.Diala": "Oh, this is wonderful! Thank you, @!",
 	"Gift.Love.Derya": "For me? Thank you, I love it!",
+    "Gift.Love.Moon": "For Moon? Thank you, I love it!",
 	//Like
 	"Gift.Like.Diala": "Aw, this is a nice gift. Thank you!",
 	"Gift.Like.Derya": "I appreciate it, thank you, @!",
+    "Gift.Like.Moon": "Moon appreciates @, thank you!",
 	//Dislike
 	"Gift.Dislike.Diala": "Uh...thanks, I guess?",
 	"Gift.Dislike.Derya": "What's this? I'm...not sure I like it very much.",
+    "Gift.Dislike.Moon": "Moon does not like this very much.",
 	//Hate
 	"Gift.Hate.Diala": "@? I don't think you should be going around giving this to people.",
 	"Gift.Hate.Derya": "I don't think even the cats at the cafe would like this, @.",
+    "Gift.Hate.Moon": "@... Moon absolutely hates this.",
 	//Neutral
 	"Gift.Neutral.Diala": "Hopefully Derya won't notice if I put this in his room.",
 	"Gift.Neutral.Derya": "Uh, thanks.", 
+    "Gift.Neutral.Moon": "Huh, this is okay, I guess.",
 
 	//Event Dialogue
 	//--------------
@@ -124,7 +129,6 @@
     "Diala.Dialogue.Introduction": "Hi! I'm Diala. You must be the new farmer who just moved in!$h#$b#It's nice to meet you! I co-own D&D's Cat Cafe in town, you should come by soon.$h",
 
     //Spring
-    "Diala.Dialogue.spring_1": "The beginning of spring always feels more exciting than other seasons for some reason.$h",
     "Diala.Dialogue.spring_12": "Hey, @! Are you participating in the egg hunt tomorrow?$h",
     "Diala.Dialogue.spring_23": "I'm still trying to pick a cute outfit for the dance tomorrow, maybe I'll get Derya to help me out.",
 

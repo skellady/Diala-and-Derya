@@ -6,7 +6,7 @@
 			"Target": "Characters/Dialogue/Moon",
 			"Entries": 
 			{
-				"Introduction": "{{i18n:{{TargetWithoutPath}}.Dialogue.Introduction}}",
+            	"Introduction": "{{i18n:{{TargetWithoutPath}}.Dialogue.Introduction}}",
 
 				//spring
 				"spring_1": "{{i18n:Moon.Dialogue.spring_1}}",
