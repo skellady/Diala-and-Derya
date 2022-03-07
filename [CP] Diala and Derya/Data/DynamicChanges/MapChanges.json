@@ -1,0 +1,53 @@
+{
+"Changes": [
+
+
+	// Map Changes
+
+
+
+// Moon's Hideout (12:00 P.M - 9:00 P.M)
+	{
+		"Action": "EditMap",
+		"Target": "Maps/Custom_DND_DDHouse",
+		"FromFile": "Assets/Maps/MoonHideout.tmx",
+		"FromArea": { "X": 0, "Y": 0, "Width": 1, "Height": 1 },
+		"ToArea": { "X": 17, "Y": 14, "Width": 1, "Height": 1 },
+		"PatchMode": "ReplaceByLayer",
+		"When": { "Time": "{{Range: 1200, 2100}}", "HasSeenEvent: |contains=20031403": false },
+		"Update": "OnLocationChange, OnTimeChange"
+	},
+	{
+        "Action": "EditMap",
+        "Target": "Maps/Custom_DND_DDHouse",
+        "MapTiles": [
+			{
+				"Position": { "X": 17, "Y": 14 },
+				"Layer": "Buildings",
+				"SetProperties": {
+				"Action": "MessageOnce 20031402 '???: {{i18n:Finding.Moon}}'"
+               }
+            }
+		],
+		"When": { "Time": "{{Range: 1200, 2100}}", "HasSeenEvent |contains=20031402": false },
+		"Update": "OnLocationChange, OnTimeChange"
+    },
+    {
+        "Action": "EditMap",
+        "Target": "Maps/Custom_DND_DDHouse",
+        "MapTiles": [
+			{
+				"Position": { "X": 17, "Y": 14 },
+				"Layer": "Buildings",
+				"SetProperties": {
+				"Action": "Message dd.moonhide"
+               }
+            }
+		],
+		"When": { "Time": "{{Range: 1200, 2100}}", "HasSeenEvent |contains=20031402": true },
+		"Update": "OnLocationChange, OnTimeChange"
+    },
+
+
+     	]
+}

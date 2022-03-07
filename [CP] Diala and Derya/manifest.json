@@ -1,14 +1,16 @@
 {
-    "Name": "[CP] Diala's Cat Cafe",
+    "Name": "Diala and Derya's Cat Cafe - Content Patcher",
     "Author": "skellady",
     "Version": "1.0.0",
-    "Description": "Adds a new NPC to town.",
+    "Description": "Adds new Custom NPCs to East Scarp.",
     "UniqueID": "skellady.dialacafe.CP",
     "MinimumApiVersion": "1.0.0",
     "UpdateKeys": [ "Nexus:???" ],
 "Dependencies": [
     { "UniqueID": "Lumisteria.LumiTilesheetsIndoor" },
     { "UniqueID": "KediDili.Tilesheets.CP"},
+    { "UniqueID": "LemurKat.EastScarpe.CP"},
+    { "UniqueID": "skellady.dialacafe.MFM"},
   ],
     "ContentPackFor": {
    "UniqueID": "Pathoschild.ContentPatcher" 

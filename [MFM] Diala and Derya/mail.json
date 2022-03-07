@@ -1,0 +1,11 @@
+[
+  // DND Mail
+  {
+    "Id": "DND.Invite",
+    "Title": "DND.invite.title",
+    "Text": "Hello, @!^We heard you moved into the farm in Pelican Town recently! We'd like to invite you to D&D's Cat Cafe. We're located in East Scarp.^^Looking forward to seeing you!^^- Diala and Derya.",
+    "Repeatable": false,
+
+  },
+
+]

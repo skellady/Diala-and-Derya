@@ -1,1 +1,15 @@
-placeholder
+{
+  
+    "Name": "Diala and Derya's Cat Cafe - Mail Framework Mod", 
+    "Author": "Rafseazz",
+    "Version": "2.0.5",
+    "Description": "Adds mail for Diala and Derya's Cat Cafe.", 
+    "UniqueID": "skellady.dialacafe.MFM", 
+    "UpdateKeys": [ "Nexus:-1" ],
+    "ContentPackFor":
+    {
+        "UniqueID": "DIGUS.MailFrameworkMod"
+    },
+
+    "MinimumApiVersion": "3.4.0",
+}

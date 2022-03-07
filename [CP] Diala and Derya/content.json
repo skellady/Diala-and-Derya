@@ -14,6 +14,25 @@
   ],
   "Changes": 
   [
+      {
+      "Action": "EditMap",
+      "Target": "Maps/Custom_EastScarpe",
+      "PatchMode": "Replace",
+      "FromFile": "assets/Maps/DDExteriorPatch.tmx",
+      "FromArea": {
+        "X": 0,
+        "Y": 0,
+        "Width": 14,
+        "Height": 12
+      },
+      "ToArea": {
+        "X": 0,
+        "Y": 56,
+        "Width": 14,
+        "Height": 12
+      },
+
+    },
     {
       "Action": "EditMap",
       "Target": "Maps/Custom_EastScarpe",
@@ -22,14 +41,14 @@
           {
             "Position":
               {
-                "X":5 ,
-                "Y":61
+                "X":4 ,
+                "Y":62
               },
 
       "Layer": "Buildings",
       "SetProperties":
         {
-          "Action": "Warp 26 18 Custom_DND_DialaCafe"
+          "Action": "LockedDoorWarp 26 18 Custom_DND_DialaCafe 900 2200"
         }
           }
   ],
@@ -43,7 +62,7 @@
         "12 7 Custom_DND_DDHouse 5 30",
         "13 7 Custom_DND_DDHouse 6 30",
         "14 7 Custom_DND_DDHouse 7 30",
-        "26 20 Custom_EastScarpe 5 62",
+        "26 20 Custom_EastScarpe 4 63",
       ]
     },
     {
@@ -55,6 +74,18 @@
         "6 31 Custom_DND_DialaCafe 13 8",
         "7 31 Custom_DND_DialaCafe 14 8",
       ]
+    },
+          //Temporary Actors
+    {
+      "Action": "Load",
+      "Target": "Characters/DDCat1",
+      "FromFile": "assets/Maps/tempActors/DDCat1.png",
+
+    },
+    {
+      "Action": "Load",
+      "Target": "Characters/DDCat2",
+      "FromFile": "assets/Maps/tempActors/DDCat2.png",
     },
 
           // Sprites + Portraits
@@ -91,11 +122,33 @@
       "FromFile": "Data/Dialogue/blank.json",
 
     },
+    {
+      "Action": "Load",
+      "Target": "Data/Events/Custom_DND_DDHouse",
+      "FromFile": "Data/Dialogue/blank.json",
+
+    },
         // DD Includes
     {
       "Action": "Include",
-      "FromFile": "Data/FestivalDialogue.json, Data/EventData.json, Data/DependencyData/CustomCompanions.json, Data/NPCData/Animations.json, Data/NPCData/Dispositions.json, Data/NPCData/Romance.json, Data/Dialogue/DialaDialogue.json, Data/Dialogue/DeryaDialogue.json, Data/Dialogue/MoonDialogue.json, Data/schedules/MoonSchedule.json, Data/schedules/DialaSchedule.json, Data/schedules/DeryaSchedule.json, Data/NPCData/GiftTasteData.json",
+      "FromFile": "Data/FestivalDialogue.json, Data/EventData.json, Data/DependencyData/CustomCompanions.json, Data/MapData/MapStrings.json",
     },
+        // Dynamic Changes Includes
+    {
+      "Action": "Include",
+      "FromFile": "Data/DynamicChanges/MapChanges.json",
+    },  
+        // NPC Data Includes
+    {
+      "Action": "Include",
+      "FromFile": "Data/NPCData/Animations.json, Data/NPCData/Dispositions.json, Data/NPCData/Romance.json, Data/NPCData/GiftTasteData.json",
+    },
+        // Dialogue + Schedule Includes
+    {
+      "Action": "Include",
+      "FromFile": "Data/Dialogue/DialaDialogue.json, Data/Dialogue/DeryaDialogue.json, Data/Dialogue/MoonDialogue.json, Data/schedules/MoonSchedule.json, Data/schedules/DialaSchedule.json, Data/schedules/DeryaSchedule.json",
+    },
+    
         // Compat Includes
 
         // Festival Includes 

@@ -1,0 +1,88 @@
+{
+   "Changes":
+   // Custom Companions - CP
+   [
+            {
+         "LogName": "D&D's Cafe Custom Companions",
+         "Action": "EditMap",
+         "Target": "Maps/Custom_DND_DDHouse",
+         "MapTiles": 
+         [
+            {
+               "Position": { "X": 4, "Y": 25 },
+               "Layer": "Back",
+               "SetProperties": 
+              {
+               "CustomCompanions": "Spawn 1 skellady.DNDCC.GreyWhiteCatHouse"
+              },
+           },
+
+         ]
+      },
+      {
+         "LogName": "D&D's Cafe Custom Companions",
+         "Action": "EditMap",
+         "Target": "Maps/Custom_DND_DialaCafe",
+         "MapTiles": 
+         [
+            {
+               "Position": { "X": 19, "Y": 17 },
+               "Layer": "Back",
+               "SetProperties": 
+              {
+               "CustomCompanions": "Spawn 1 skellady.DNDCC.BlackCat"
+              }
+            },
+            {
+               "Position": { "X": 23, "Y": 14 },
+               "Layer": "Back",
+               "SetProperties":
+               {
+                  "CustomCompanions": "Spawn 1 skellady.DNDCC.GreyCat"
+               }
+            },
+            {
+               "Position": { "X": 27, "Y": 10 },
+               "Layer": "Back",
+               "SetProperties":
+               {
+                  "CustomCompanions": "Spawn 1 skellady.DNDCC.OrangeCat"
+               }
+            },
+            {
+               "Position": { "X": 35, "Y": 9 },
+               "Layer": "Back",
+               "SetProperties": 
+               {
+                  "CustomCompanions": "Spawn 1 skellady.DNDCC.YellowCat"
+               }
+            },
+            {
+               "Position": { "X": 18, "Y": 6 },
+               "Layer": "Back",
+               "SetProperties":
+               {
+                  "CustomCompanions": "Spawn 1 skellady.DNDCC.GreyWhiteCat"
+               }
+            },
+            {
+               "Position": { "X": 6, "Y": 17 },
+               "Layer": "Back",
+               "SetProperties":
+               {
+                  "CustomCompanions": "Spawn 1 skellady.DNDCC.WhiteCat"
+               }
+            },
+            {
+               "Position": { "X": 3, "Y": 11 },
+               "Layer": "Back",
+               "SetProperties":
+               {
+                  "CustomCompanions": "Spawn 1 skellady.DNDCC.BrownCat"
+               }
+            },
+            
+         ]
+      }
+   ]
+}

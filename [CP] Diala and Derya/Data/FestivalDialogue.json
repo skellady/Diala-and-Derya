@@ -12,6 +12,7 @@
 				"Diala_spouse": "{{i18n:Festivals.EggFest.Diala_spouse}}",
 				"Derya": "{{i18n:Festivals.EggFest.Derya}}",
 				"Derya_spouse": "{{i18n:Festivals.EggFest.Derya_spouse}}",
+				"Moon": "{{i18n:Festivals.EggFest.Moon}}",
 
 			},
 
@@ -27,6 +28,7 @@
 				"Diala_spouse": "{{i18n:Festivals.FlowerDance.Diala_spouse}}",
 				"Derya": "{{i18n:Festivals.FlowerDance.Derya}}",
 				"Derya_spouse": "{{i18n:Festivals.FlowerDance.Derya_spouse}}",
+				"Moon": "{{i18n:Festivals.FlowerDance.Moon}}",
 
 			},
 		},
@@ -41,6 +43,7 @@
 				"Diala_spouse": "{{i18n:Festivals.Luau.Diala_spouse}}",
 				"Derya": "{{i18n:Festivals.Luau.Derya}}",
 				"Derya_spouse": "{{i18n:Festivals.Luau.Derya_spouse}}",
+				"Moon": "{{i18n:Festivals.Luau.Moon}}",
 
 			},
 		},
@@ -55,6 +58,7 @@
 				"Diala_spouse": "{{i18n:Festivals.Jellies.Diala_spouse}}",
 				"Derya": "{{i18n:Festivals.Jellies.Derya}}",
 				"Derya_spouse": "{{i18n:Festivals.Jellies.Derya_spouse}}",
+				"Moon": "{{i18n:Festivals.Jellies.Moon}}",
 
 			},
 		},
@@ -69,6 +73,7 @@
 				"Diala_spouse": "{{i18n:Festivals.StardewFair.Diala_spouse}}",
 				"Derya": "{{i18n:Festivals.StardewFair.Derya}}",
 				"Derya_spouse": "{{i18n:Festivals.StardewFair.Derya_spouse}}",
+				"Moon": "{{i18n:Festivals.StardewFair.Moon}}",
 
 			},
 		},
@@ -83,6 +88,7 @@
 				"Diala_spouse": "{{i18n:Festivals.SpiritEve.Diala_spouse}}",
 				"Derya": "{{i18n:Festivals.SpiritEve.Derya}}",
 				"Derya_spouse": "{{i18n:Festivals.SpiritEve.Derya_spouse}}",
+				"Moon": "{{i18n:Festivals.SpiritEve.Moon}}",
 
 			},
 		},
@@ -97,6 +103,7 @@
 				"Diala_spouse": "{{i18n:Festivals.IceFest.Diala_spouse}}",
 				"Derya": "{{i18n:Festivals.IceFest.Derya}}",
 				"Derya_spouse": "{{i18n:Festivals.IceFest.Derya_spouse}}",
+				"Moon": "{{i18n:Festivals.IceFest.Moon}}",
 
 			},
 		},
@@ -111,6 +118,7 @@
 				"Diala_spouse": "{{i18n:Festivals.WinterStar.Diala_spouse}}",
 				"Derya": "{{i18n:Festivals.WinterStar.Derya}}",
 				"Derya_spouse": "{{i18n:Festivals.WinterStar.Derya_spouse}}",
+				"Moon": "{{i18n:Festivals.WinterStar.Moon}}",
 			},
 		},
 	]

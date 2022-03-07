@@ -7,10 +7,12 @@
 			"Target": "Characters/schedules/Derya",
 			"Entries":
 			{
-				"spring": "610 Custom_DND_DDHouse 5 22 3/900 Custom_DND_DialaCafe 5 8 0/1200 Custom_DND_DDHouse 2 12 1/1400 SeedShop 16 29 3/1600 Custom_DND_DDHouse 26 26 0/2100 Custom_DND_DDHouse 21 5 0",
-				"summer": "610 Custom_DND_DDHouse 26 23 2/800 Custom_DND_DialaCafe 26 7 2/1900 Saloon 26 18 2/2100 Custom_DND_DDHouse 4 5 0",
-				"fall": "610 Custom_DND_DDHouse 5 22 3/900 Custom_DND_DialaCafe 5 8 0/1200 Custom_DND_DDHouse 2 12 1/1400 SeedShop 16 29 3/1600 Custom_DND_DDHouse 26 26 0/2100 Custom_DND_DDHouse 21 5 0",
-				"winter": "610 Custom_DND_DDHouse 26 23 2/800 Custom_DND_DialaCafe 26 7 2/1900 Saloon 26 18 2/2100 Custom_DND_DDHouse 4 5 0",
+				"spring": "610 Custom_DND_DDHouse 5 22 0/900 Custom_DND_DialaCafe 5 8 0/1100 SeedShop 16 22 3/1900 Saloon 25 18 2/2100 Custom_DND_DDHouse 21 5 0",
+				"summer": "610 Custom_DND_DDHouse 25 22 0/800 Custom_DND_DialaCafe 24 7 2/1300 Beach 19 19 2/1900 Custom_EastScarpe 20 120 2/2100 Custom_DND_DDHouse 21 5 0",
+				"fall": "610 Custom_DND_DDHouse 5 22 0/900 Custom_DND_DialaCafe 5 8 0/1100 SeedShop 16 22 3/1900 Saloon 25 18/2100 Custom_DND_DDHouse 21 5 0",
+				"winter": "610 Custom_DND_DDHouse 25 22 0/800 Custom_DND_DialaCafe 24 7 2/1900 Custom_EastScarpe 12 62/2100 Custom_DND_DDHouse 21 5 0",
+				"rain": "610 Custom_DND_DDHouse 19 9 0/900 Custom_DND_DialaCafe 17 9 1/1900 Custom_DND_DDHouse 13 25 1/2100 Custom_DND_DDHouse 21 5 0",
+
 			}
 		}
 	]
