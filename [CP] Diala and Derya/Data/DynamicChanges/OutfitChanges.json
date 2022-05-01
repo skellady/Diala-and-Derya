@@ -1,0 +1,40 @@
+{
+	"Changes":
+	[
+		// Spirit's Eve
+		{
+			"LogName": "Diala Spirit's Eve",
+			"Action": "EditImage",
+			"Target": "Portraits/Diala, Characters/Diala",
+			"FromFile": "assets/{{Target}}/Diala_angel.png",
+			"When": 
+			{
+				"LocationName": "Temp",
+				"DayEvent": "spirit's eve",
+			},
+
+		},
+		{
+			"LogName": "Derya Spirit's Eve",
+			"Action": "EditImage",
+			"Target": "Portraits/Derya, Characters/Derya",
+			"FromFile": "assets/{{Target}}/Derya_devil.png",
+			"When": 
+			{
+				"LocationName": "Temp",
+				"DayEvent": "spirit's eve",
+			},
+		},
+		{
+			"LogName": "Moon Spirit's Eve",
+			"Action": "EditImage",
+			"Target": "Portraits/Moon, Characters/Moon",
+			"FromFile": "assets/{{Target}}/Moon_ghost.png",
+			"When": 
+			{
+				"LocationName": "Temp",
+				"DayEvent": "spirit's eve",
+			},
+		},
+	]
+}

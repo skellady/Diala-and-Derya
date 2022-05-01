@@ -1,0 +1,56 @@
+{
+    "Changes": [
+    
+        {
+       "Action": "EditData",
+       "Target": "Data/Festivals/winter28",
+       "When":
+                        { "HasMod":"Rafseazz.RSVCP" },
+       "TextOperations": [
+       
+       //SetUp
+            {
+             "Operation": "Append",
+             "Target": ["Entries", "Set-Up_additionalCharacters"],
+             "Value": "Diala 40 26 right/Derya 41 26 left",
+             "Delimiter": "/"
+            },
+        
+       //MainEvent
+            {
+             "Operation": "Append",
+             "Target": ["Entries", "MainEvent_additionalCharacters"],
+             "Value": "Diala 35 54 up/Derya 36 54 up",
+             "Delimiter": "/"
+            },
+    
+        ]	
+        },
+
+        
+       {"Action": "EditData",
+       "Target": "Data/Festivals/winter28",
+       "When":
+                        { "HasMod":"Rafseazz.RSVCP", "HasSeenEvent": 20031403 },
+       "TextOperations": [
+       
+       //SetUp
+            {
+             "Operation": "Append",
+             "Target": ["Entries", "Set-Up_additionalCharacters"],
+             "Value": "Moon 26 29 down",
+             "Delimiter": "/"
+            },
+        
+       //MainEevent
+            {
+             "Operation": "Append",
+             "Target": ["Entries", "MainEvent_additionalCharacters"],
+             "Value": "Moon 26 29 down",
+             "Delimiter": "/"
+            },
+    
+        ]	
+        },
+    ]
+    }

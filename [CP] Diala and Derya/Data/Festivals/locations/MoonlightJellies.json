@@ -1,3 +1,53 @@
 {
-  
+  "Changes": 
+  [
+  		// Without SVE
+  	{
+  		"Action": "EditData",
+  		"Target": "Data/Festivals/summer28",
+  		"When": { "HasMod: |contains=FlashShifter.StardewValleyExpandedCP": false },
+  		"TextOperations":
+  		[
+  			// Set-up
+  			{
+  				"Operation": "Append",
+  				"Target": ["Entries", "Set-Up_additionalCharacters"],
+  				"Value": "Diala 56 17 right/Derya 56 18 right",
+  				"Delimiter": "/",
+  			},
+  			// Main Event
+  			{
+  				"Operation": "Append",
+  				"Target": ["Entries", "Set-Up_additionalCharacters"],
+  				"Value": "Diala 56 17 right/Derya 56 18 right",
+  				"Delimiter": "/",
+  			},
+  		]
+
+  	},
+  		// Moon At Moonlight Jellies
+  	{
+  		"Action": "EditData",
+  		"Target": "Data/Festivals/summer28",
+  		"When": { "HasMod: |contains=FlashShifter.StardewValleyExpandedCP": false, "HasSeenEvent": 20031403 },
+  		"TextOperations":
+  		[
+  			// Set-up
+  			{
+  				"Operation": "Append",
+  				"Target": ["Entries", "Set-Up_additionalCharacters"],
+  				"Value": "Moon 56 10 right",
+  				"Delimiter": "/",
+  			},
+  			// Main Event
+  			{
+  				"Operation": "Append",
+  				"Target": ["Entries", "Set-Up_additionalCharacters"],
+  				"Value": "Moon 56 10 right",
+  				"Delimiter": "/",
+  			},
+  		]
+  	}
+
+  ]
 }

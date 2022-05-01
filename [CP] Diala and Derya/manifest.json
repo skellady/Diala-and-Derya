@@ -3,14 +3,47 @@
     "Author": "skellady",
     "Version": "1.0.0",
     "Description": "Adds new Custom NPCs to East Scarp.",
-    "UniqueID": "skellady.dialacafe.CP",
+    "UniqueID": "skellady.DNDCP",
     "MinimumApiVersion": "1.0.0",
     "UpdateKeys": [ "Nexus:???" ],
 "Dependencies": [
-    { "UniqueID": "Lumisteria.LumiTilesheetsIndoor" },
-    { "UniqueID": "KediDili.Tilesheets.CP"},
-    { "UniqueID": "LemurKat.EastScarpe.CP"},
-    { "UniqueID": "skellady.dialacafe.MFM"},
+    // required mods
+    { 
+    "UniqueID": "Lumisteria.LumiTilesheetsIndoor",
+    "IsRequired": true, 
+    },
+
+    { 
+    "UniqueID": "KediDili.Tilesheets.CP",
+    "IsRequired": true,
+    },
+
+    { 
+    "UniqueID": "LemurKat.EastScarpe.CP",
+    "IsRequired": true,
+    },
+
+    {
+    "UniqueID": "aedenthorn.ExtraMapLayers",
+    "IsRequired": true,
+    },
+
+    // components
+    { 
+    "UniqueID": "skellady.DNDMFM",
+    "IsRequired": true,
+    },
+
+    { 
+    "UniqueID": "skellady.DNDCC",
+    "IsRequired": true,
+    },
+
+    { 
+    "UniqueID": "skellady.DNDSTF",
+    "IsRequired": true,
+    },
+
   ],
     "ContentPackFor": {
    "UniqueID": "Pathoschild.ContentPatcher" 

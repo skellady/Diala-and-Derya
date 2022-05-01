@@ -29,6 +29,18 @@
       },
       "When": { "Relationship:Diala": "Engaged" },
     },
+    {
+      "Action": "EditData",
+      "Target": "strings/StringsFromCSFiles",
+      "Entries":
+      {
+        "Utility.cs.5367": "{{i18n:Romance.FemaleWeddingFix.MaleFarmer1.Derya}}",
+        "Utility.cs.5369": "{{i18n:Romance.FemaleWeddingFix.FemaleFarmer1.Derya}}",
+        "Utility.cs.5371": "{{i18n:Romance.FemaleWeddingFix.MaleFarmer2.Derya}}",
+        "Utility.cs.5377": "{{i18n:Romance.FemaleWeddingFix.FemaleFarmer2.Derya}}",
+      },
+      "When": { "Relationship:Derya": "Engaged" },
+    },
     //Relationship Dialogue
     {
       "LogName": "Relationship Dialogue",
@@ -42,6 +54,22 @@
        "rejectNPCA": "{{i18n: Romance.rejectNPCA.{{TargetWithoutPath}} }}",
        "rejectNPCB": "{{i18n: Romance.rejectNPCB.{{TargetWithoutPath}} }}",
       },
+    },
+    //Register Spouse Room
+    {
+      "Action": "EditData",
+      "Target": "Data/SpouseRooms",
+      "Entries":
+      {
+        "Diala": "DNDSpouseRooms/0",
+        "Derya": "DNDSpouseRooms/1",
+      },
+    },
+    //Load Spouse Room
+    {
+      "Action": "Load",
+      "Target": "Maps/DNDSpouseRooms",
+      "FromFile": "assets/Maps/{{TargetWithoutPath}}.tmx"
     },
   ]
 }

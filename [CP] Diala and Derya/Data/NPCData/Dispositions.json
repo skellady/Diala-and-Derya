@@ -11,8 +11,8 @@
       "Entries":
       {
         "Diala": "adult/polite/shy/positive/female/datable/null/Town/summer 26//Custom_DND_DDHouse 3 5/{{i18n:Name.Diala}}",
-        "Derya": "adult/polite/outgoing/positive/female/datable/null/Town/fall 20//Custom_DND_DDHouse 20 5/{{i18n:Name.Derya}}",
-        "Moon": "child/polite/outgoing/positive/female/non-datable/null/Town/winter 8//Custom_ES_TNPCWaitingRoomWarp 1 5/{{i18n:Name.Moon}}",
+        "Derya": "adult/polite/outgoing/positive/female/datable/null/Town/fall 21//Custom_DND_DDHouse 20 5/{{i18n:Name.Derya}}",
+        "Moon": "child/polite/outgoing/positive/female/non-datable/null/Town/winter 13//Custom_ES_TNPCWaitingRoomWarp 1 5/{{i18n:Name.Moon}}",
       },
 
     },

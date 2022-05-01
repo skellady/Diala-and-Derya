@@ -7,9 +7,9 @@
       "Target": "Data/NPCGiftTastes",
       "Entries": 
       {
-        "Diala": "{{i18n:Gift.Love.Diala}}/421 223 224 400 80 881/{{i18n:Gift.Like.Diala}}/-2 593 651 228/{{i18n:Gift.Dislike.Diala}}/78 635/{{i18n:Gift.Hate.Diala}}/274 346/{{i18n:Gift.Neutral.Diala}}/-28/ ",
-        "Derya": "{{i18n:Gift.Love.Derya}}/223 228 227 395 253 196/{{i18n:Gift.Like.Derya}}/424 426 22/{{i18n:Gift.Dislike.Derya}}/103 260/{{i18n:Gift.Hate.Derya}}/767 766/{{i18n:Gift.Neutral.Derya}}/66/ ",
-        "Moon": "{{i18n:Gift.Love.Moon}}/651 768 769 88/{{i18n:Gift.Like.Moon}}/84 86/{{i18n:Gift.Dislike.Moon}}/103 260/{{i18n:Gift.Hate.Moon}}/196 609/{{i18n:Gift.Neutral.Moon}}/-2/ ",
+        "Diala": "{{i18n:Gift.Love.Diala}}/-2 20 421 223 224 400 80 881 113 188 194 195 206 211 215 227 228 233 260 270 350 595 578/{{i18n:Gift.Like.Diala}}/402 220 190 88 593 651 22/{{i18n:Gift.Dislike.Diala}}/167 91 78 635/{{i18n:Gift.Hate.Diala}}/274 346 303 459 348/{{i18n:Gift.Neutral.Diala}}/-4/ ",
+        "Derya": "{{i18n:Gift.Love.Derya}}/167 223 228 227 395 253 196 188 194 195 206 211 215 220 233 260 270 350 400/{{i18n:Gift.Like.Derya}}/402 190 424 426 22/{{i18n:Gift.Dislike.Derya}}/103 346 303 459/{{i18n:Gift.Hate.Derya}}/767 766/{{i18n:Gift.Neutral.Derya}}/-2/ ",
+        "Moon": "{{i18n:Gift.Love.Moon}}/-2 651 768 769 88 194 202 206 211 400/{{i18n:Gift.Like.Moon}}/270 220 84 86/{{i18n:Gift.Dislike.Moon}}/215 103/{{i18n:Gift.Hate.Moon}}/260 196 609/{{i18n:Gift.Neutral.Moon}}/-4/ ",
       },
     },
   ]

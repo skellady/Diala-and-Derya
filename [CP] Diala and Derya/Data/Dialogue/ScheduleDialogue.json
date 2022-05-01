@@ -1,0 +1,15 @@
+{
+	"Changes":
+	[
+		{
+			"Action": "EditData",
+			"Target": "Strings/schedules/Diala",
+			"Entries": 
+			{
+				"Saloon.000": "{{Random: {{i18n:Saloon.Diala1}} @@ {{i18n:Saloon.Diala2}} @@ {{i18n:Saloon.Diala3}} |inputSeparator=@@}}"
+
+			},
+		},
+	]
+    
+}

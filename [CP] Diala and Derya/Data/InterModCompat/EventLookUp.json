@@ -1,0 +1,16 @@
+{
+	"Changes": 
+	[
+		// Adds names to locations
+		{
+			"Action": "EditData",
+			"Target": "Mods/shekurika.EventLookup/locationnames",
+			"Entries":
+			{
+				"Custom_DND_DialaCafe": "{{i18n:EastScarp.Locations.DNDCafe}}",
+				"Custom_DND_DDHouse": "{{i18n:EastScarp.Locations.DNDHouse}}",
+			}
+		}
+
+	]
+}

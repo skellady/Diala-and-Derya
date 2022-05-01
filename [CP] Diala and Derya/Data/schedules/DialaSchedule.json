@@ -7,11 +7,26 @@
 			"Target": "Characters/schedules/Diala",
 			"Entries":
 			{
-				"spring": "610 Custom_DND_DDHouse 26 23 2/800 Custom_DND_DialaCafe 24 7 2/1900 Saloon 26 18 2/2100 Custom_DND_DDHouse 7 5 0 diala_sleep",
-				"summer": "610 Custom_DND_DDHouse 4 7 2/800 Custom_DND_DialaCafe 27 5 0/1300 Beach 20 19 2/1900 Custom_EastScarpe 9 63 2/2100 Custom_DND_DDHouse 7 5 0 diala_sleep",
-				"fall": "610 Custom_DND_DDHouse 26 23 2/800 Custom_DND_DialaCafe 24 7 2/1900 Saloon 26 18 2/2100 Custom_DND_DDHouse 4 5 0 diala_sleep",
-				"winter": "610 Custom_DND_DDHouse 4 7 2/800 Custom_DND_DialaCafe 27 5 0/1100 Custom_EastScarpe 20 65 1/1900 Saloon 26 18 2/2100 Custom_DND_DDHouse 7 5 0 diala_sleep",
-				"rain": "610 Custom_DND_DialaCafe 4 8 0/1000 Custom_DND_DialaCafe 24 7 2/1900 Custom_DND_DDHouse 2 22 0/2100 Custom_DND_DDHouse 7 5 0 diala_sleep",
+				"spring": "2400 Custom_ES_TNPCWaitingRoomWarp 3 5 2",
+			},
+
+		},
+		{
+			"LogName": "Diala's Actual Schedule",
+			"Action": "EditData",
+			"Target": "Characters/schedules/Diala",
+			"When": {
+			"HasSeenEvent": 20031401,
+			},
+			"Entries":
+			{
+				"spring": "0 Custom_DND_DDHouse 23 18 3/800 Custom_DND_DialaCafe 26 7 2/a1900 Saloon 26 18 2 \"Strings\\schedules\\Diala:Saloon.000\"/2100 Custom_DND_DDHouse 4 5 0 diala_sleep",
+				"spring_Fri": "0 Custom_DND_DDHouse 3 16 0/900 Custom_EastScarpe 24 62 2/1100 Forest 94 36 2 diala_nap/2000 Custom_DND_DDHouse 4 5 0 diala_sleep",
+				"summer": "0 Custom_DND_DDHouse 2 7 2 diala_meditate/900 Custom_DND_DialaCafe 27 6 0/1300 Beach 20 19 2/1900 Custom_EastScarpe 9 63 2/2100 Custom_DND_DDHouse 4 5 0 diala_sleep",
+				"fall": "0 Custom_DND_DDHouse 23 18 3/800 Custom_DND_DialaCafe 26 7 2/a1900 Saloon 26 18 2 \"Strings\\schedules\\Diala:Saloon.000\"/2100 Custom_DND_DDHouse 4 5 0 diala_sleep",
+				"winter": "0 Custom_DND_DDHouse 2 7 2 diala_meditate/900 Custom_DND_DialaCafe 27 6 0/1100 Custom_EastScarpe 20 65 1/a1900 Saloon 26 18 2 \"Strings\\schedules\\Diala:Saloon.000\"/2100 Custom_DND_DDHouse 4 5 0 diala_sleep",
+				"winter_16": "0 Custom_DND_DDHouse 2 7 2/900 Custom_DND_DialaCafe 34 10 2/1200 Custom_DND_DialaCafe 18 10 0/1400 Beach 40 36 2/2100 Custom_DND_DDHouse 4 5 0 diala_sleep",
+				"rain": "0 Custom_DND_DialaCafe 4 8 0/1000 Custom_DND_DialaCafe 26 7 2/1900 Custom_DND_DDHouse 2 22 0/2100 Custom_DND_DDHouse 4 5 0 diala_sleep",
 
 			}
 		}

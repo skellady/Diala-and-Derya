@@ -3,9 +3,23 @@
   {
     "Id": "DND.Invite",
     "Title": "DND.invite.title",
-    "Text": "Hello, @!^We heard you moved into the farm in Pelican Town recently! We'd like to invite you to D&D's Cat Cafe. We're located in East Scarp.^^Looking forward to seeing you!^^- Diala and Derya.",
+    "Text": "DND.invite.text",
     "Repeatable": false,
 
+  },
+  {
+    "Id": "DND.CoffeeDate",
+    "Title": "DND.coffeedate.title",
+    "Text": "DND.coffeedate.text",
+    "Repeatable": false,
+    "FriendshipConditions": 
+    [
+      {
+        "NpcName": "Diala",
+        "FriendshipLevel": 2,
+
+      }
+    ]
   },
 
 ]

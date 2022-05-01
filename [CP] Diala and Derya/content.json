@@ -59,9 +59,9 @@
       "Target": "Maps/Custom_DND_DialaCafe",
       "AddWarps": 
       [
-        "12 7 Custom_DND_DDHouse 5 30",
-        "13 7 Custom_DND_DDHouse 6 30",
-        "14 7 Custom_DND_DDHouse 7 30",
+        "12 7 Custom_DND_DDHouse 2 24",
+        "13 7 Custom_DND_DDHouse 3 24",
+        "14 7 Custom_DND_DDHouse 4 24",
         "26 20 Custom_EastScarpe 4 63",
       ]
     },
@@ -70,9 +70,9 @@
       "Target": "Maps/Custom_DND_DDHouse",
       "AddWarps":
       [
-        "5 31 Custom_DND_DialaCafe 12 8",
-        "6 31 Custom_DND_DialaCafe 13 8",
-        "7 31 Custom_DND_DialaCafe 14 8",
+        "2 25 Custom_DND_DialaCafe 12 8",
+        "3 25 Custom_DND_DialaCafe 13 8",
+        "4 25 Custom_DND_DialaCafe 14 8",
       ]
     },
           //Temporary Actors
@@ -117,16 +117,20 @@
       "FromFile": "Data/Dialogue/blank.json",
     },
     {
+      "LogName": "Schedule Dialogue",
+      "Action": "Load",
+      "Target": "Strings/schedules/Diala",
+      "FromFile": "Data/Dialogue/blank.json",
+    },
+    {
       "Action": "Load",
       "Target": "Data/Events/Custom_DND_DialaCafe",
       "FromFile": "Data/Dialogue/blank.json",
-
     },
     {
       "Action": "Load",
       "Target": "Data/Events/Custom_DND_DDHouse",
       "FromFile": "Data/Dialogue/blank.json",
-
     },
         // DD Includes
     {
@@ -136,20 +140,24 @@
         // Dynamic Changes Includes
     {
       "Action": "Include",
-      "FromFile": "Data/DynamicChanges/MapChanges.json",
+      "FromFile": "Data/DynamicChanges/MapChanges.json, Data/DynamicChanges/OutfitChanges.json",
     },  
         // NPC Data Includes
     {
       "Action": "Include",
-      "FromFile": "Data/NPCData/Animations.json, Data/NPCData/Dispositions.json, Data/NPCData/Romance.json, Data/NPCData/GiftTasteData.json",
+      "FromFile": "Data/NPCData/Animations.json, Data/NPCData/Dispositions.json, Data/NPCData/Romance.json, Data/NPCData/GiftTasteData.json, Data/NPCData/ConversationTopics.json",
     },
         // Dialogue + Schedule Includes
     {
       "Action": "Include",
-      "FromFile": "Data/Dialogue/DialaDialogue.json, Data/Dialogue/DeryaDialogue.json, Data/Dialogue/MoonDialogue.json, Data/schedules/MoonSchedule.json, Data/schedules/DialaSchedule.json, Data/schedules/DeryaSchedule.json",
+      "FromFile": "Data/Dialogue/DialaDialogue.json, Data/Dialogue/DeryaDialogue.json, Data/Dialogue/MoonDialogue.json, Data/schedules/MoonSchedule.json, Data/schedules/DialaSchedule.json, Data/schedules/DeryaSchedule.json, Data/Dialogue/ScheduleDialogue.json",
     },
     
         // Compat Includes
+    {
+      "Action": "Include",
+      "FromFile": "Data/InterModCompat/EventLookUp.json, Data/InterModCompat/CustomGiftDialogue.json",
+    },
 
         // Festival Includes 
     {

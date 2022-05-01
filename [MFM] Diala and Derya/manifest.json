@@ -4,7 +4,7 @@
     "Author": "Rafseazz",
     "Version": "2.0.5",
     "Description": "Adds mail for Diala and Derya's Cat Cafe.", 
-    "UniqueID": "skellady.dialacafe.MFM", 
+    "UniqueID": "skellady.DNDMFM", 
     "UpdateKeys": [ "Nexus:-1" ],
     "ContentPackFor":
     {

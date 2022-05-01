@@ -1,0 +1,149 @@
+{
+    "Changes": [
+        {
+            "LogName": "CGD Diala",
+            "Action": "EditData",
+            "Target": "Characters/Dialogue/Diala",
+            "Entries": 
+            {
+
+                //Love
+                "GiftReactionCategory_-2": "{{i18n:Gems.Diala}}",
+                "GiftReaction_Bone_Fragment": "{{i18n:BoneFragment.Diala}}",
+                "GiftReaction_Chicken_Statue": "{{i18n:ChickenStatue.Diala}}",
+                "GiftReaction_Cookie": "{{i18n:Cookie.Diala}}",
+                "GiftReaction_Corn": "{{i18n:Corn.Diala}}",
+                "GiftReaction_Fairy_Rose": "{{i18n:FairyRose.Diala}}",
+                "GiftReaction_Fried_Egg": "{{i18n:FriedEgg.Diala}}",
+                "GiftReaction_Green_Bean": "{{i18n:GreenBean.Diala}}",
+                "GiftReaction_Hot_Pepper": "{{i18n:HotPepper.Diala}}",
+                "GiftReaction_Ice_Cream": "{{i18n:IceCream.Diala}}",
+                "GiftReactionPreserved_Juice": "{{i18n:Juice.Diala}}",
+                "GiftReaction_Leek": "{{i18n:Leek.Diala}}",
+                "GiftReaction_Maki_Roll": "{{i18n:MakiRoll.Diala}}",
+                "GiftReaction_Omelet": "{{i18n:Omelet.Diala}}",
+                "GiftReaction_Pancakes": "{{i18n:Pancakes.Diala}}",
+                "GiftReaction_Pepper_Poppers": "{{i18n:PepperPoppers.Diala}}",
+                "GiftReaction_Pizza": "{{i18n:Pizza.Diala}}",
+                "GiftReaction_Quartz": "{{i18n:Quartz.Diala}}",
+                "GiftReaction_Sashimi": "{{i18n:Sashimi.Diala}}",
+                "GiftReaction_Spaghetti": "{{i18n:Spaghetti.Diala}}",
+                "GiftReaction_Star_Shards": "{{i18n:StarShards.Diala}}",
+                "GiftReaction_Strawberry": "{{i18n:Strawberry.Diala}}",
+                "GiftReaction_Sunflower": "{{i18n:Sunflower.Diala}}",     
+
+                //Like
+                "GiftReaction_Cauliflower": "{{i18n:Cauliflower.Diala}}",
+                "GiftReaction_Chocolate_Cake": "{{i18n:ChocolateCake.Diala}}",
+                "GiftReaction_Coconut": "{{i18n:Coconut.Diala}}",
+                "GiftReaction_Dandelion": "{{i18n:Dandelion.Diala}}",
+                "GiftReaction_Poppyseed_Muffin": "{{i18n:PoppyseedMuffin.Diala}}",
+                "GiftReaction_Summer_Spangle": "{{i18n:SummerSpangle.Diala}}",
+                "GiftReaction_Sweet_Pea": "{{i18n:SweetPea.Diala}}",
+            
+                //Neutral
+                "GiftReactionCategory_-4": "{{i18n:Fish.Diala}}",
+
+                //Dislike
+                "GiftReaction_Banana": "{{i18n:Banana.Diala}}",
+                "GiftReaction_Cave_Carrot": "{{i18n:CaveCarrot.Diala}}",
+                "GiftReaction_Joja_Cola": "{{i18n:JojaCola.Diala}}",
+                "GiftReaction_Orange": "{{i18n:Orange.Diala}}",
+
+                //Hate
+                "GiftReaction_Artichoke": "{{i18n:Artichoke.Diala}}",
+                "GiftReaction_Beer": "{{i18n:Beer.Diala}}",
+                "GiftReaction_Mead": "{{i18n:Mead.Diala}}",
+                "GiftReaction_Pale_Ale": "{{i18n:PaleAle.Diala}}",
+                "GiftReactionPreserved_Wine": "{{i18n:Wine.Diala}}",           
+            }
+        },
+        {
+            "LogName": "CGD Derya",
+            "Action": "EditData",
+            "Target": "Characters/Dialogue/Derya",
+            "Entries": 
+            {
+                //Love
+                "GiftReaction_Chocolate_Cake": "{{i18n:ChocolateCake.Derya}}",
+                "GiftReaction_Coffee": "{{i18n:Coffee.Derya}}",
+                "GiftReaction_Cookie": "{{i18n:Cookie.Derya}}",
+                "GiftReaction_Corn": "{{i18n:Corn.Derya}}",
+                "GiftReaction_Fried_Egg": "{{i18n:FriedEgg.Derya}}",
+                "GiftReaction_Green_Bean": "{{i18n:GreenBean.Derya}}",
+                "GiftReaction_Hot_Pepper": "{{i18n:HotPepper.Derya}}",
+                "GiftReaction_Ice_Cream": "{{i18n:IceCream.Derya}}",
+                "GiftReaction_Joja_Cola": "{{i18n:JojaCola.Derya}}",
+                "GiftReactionPreserved_Juice": "{{i18n:Juice.Derya}}", 
+                "GiftReaction_Maki_Roll": "{{i18n:MakiRoll.Derya}}",
+                "GiftReaction_Omelet": "{{i18n:Omelet.Derya}}",
+                "GiftReaction_Pancakes": "{{i18n:Pancakes.Derya}}",
+                "GiftReaction_Pepper_Poppers": "{{i18n:PepperPoppers.Derya}}",
+                "GiftReaction_Pizza": "{{i18n:Pizza.Derya}}",
+                "GiftReaction_Salad": "{{i18n:Salad.Derya}}",
+                "GiftReaction_Sashimi": "{{i18n:Sashimi.Derya}}",
+                "GiftReaction_Strawberry": "{{i18n:Strawberry.Derya}}",
+                "GiftReaction_Triple_Shot_Espresso": "{{i18n:TripleShotEspresso.Derya}}",
+
+                //Like
+                "GiftReaction_Cauliflower": "{{i18n:Cauliflower.Derya}}",
+                "GiftReaction_Cheese": "{{i18n:Cheese.Derya}}",
+                "GiftReaction_Dandelion": "{{i18n:Dandelion.Derya}}",
+                "GiftReaction_Goat_Cheese": "{{i18n:GoatCheese.Derya}}",
+                "GiftReaction_Sweet_Pea": "{{i18n:SweetPea.Derya}}",
+
+                //Neutral
+                "GiftReactionCategory_-2": "{{i18n:Gems.Derya}}",
+                "GiftReactionPreserved_Wine": "{{i18n:Wine.Derya}}",
+
+                //Dislike
+                "GiftReaction_Ancient_Doll": "{{i18n:AncientDoll.Derya}}",
+                "GiftReaction_Beer": "{{i18n:Beer.Derya}}",
+                "GiftReaction_Mead": "{{i18n:Mead.Derya}}",
+                "GiftReaction_Pale_Ale": "{{i18n:PaleAle.Derya}}",
+
+                //Hate
+                "GiftReaction_Bat_Wing": "{{i18n:BatWing.Derya}}",
+                "GiftReaction_Slime": "{{i18n:Slime.Derya}}",
+            }
+        },
+        {
+            "LogName": "CGD Moon",
+            "Action": "EditData",
+            "Target": "Characters/Dialogue/Moon",
+            "Entries":
+            {
+                //Love
+                "GiftReactionCategory_-2": "{{i18n:Gems.Moon}}",
+                "GiftReaction_Coconut": "{{i18n:Coconut.Moon}}",
+                "GiftReaction_Fried_Calamari": "{{i18n:FriedCalamari.Moon}}",
+                "GiftReaction_Fried_Egg": "{{i18n:FriedEgg.Moon}}",
+                "GiftReaction_Pancakes": "{{i18n:Pancakes.Moon}}",
+                "GiftReaction_Pizza": "{{i18n:Pizza.Moon}}",
+                "GiftReaction_Poppyseed_Muffin": "{{i18n:PoppyseedMuffin.Moon}}",
+                "GiftReaction_Solar_Essence": "{{i18n:SolarEssence.Moon}}",
+                "GiftReaction_Strawberry": "{{i18n:Strawberry.Moon}}",
+                "GiftReaction_Void_Essence": "{{i18n:VoidEssence.Moon}}",
+
+                //Like
+                "GiftReaction_Chocolate_Cake": "{{i18n:ChocolateCake.Moon}}",
+                "GiftReaction_Corn": "{{i18n:Corn.Moon}}",
+                "GiftReaction_Earth_Crystal": "{{i18n:EarthCrystal.Moon}}",
+                "GiftReaction_Frozen_Tear": "{{i18n:FrozenTear.Moon}}",
+
+                //Neutral
+                "GiftReactionCategory_-4": "{{i18n:Fish.Moon}}",
+
+                //Dislike
+                "GiftReaction_Pepper_Poppers": "{{i18n:PepperPoppers.Moon}}",
+                "GiftReaction_Hot_Pepper": "{{i18n:HotPepper.Moon}}",
+
+                //Hate
+                "GiftReaction_Ancient_Doll": "{{i18n:AncientDoll.Moon}}",
+                "GiftReaction_Salad": "{{i18n:Salad.Moon}}",
+                "GiftReaction_Radish_Salad": "{{i18n:RadishSalad.Moon}}",
+            }
+        },
+
+    ]
+}

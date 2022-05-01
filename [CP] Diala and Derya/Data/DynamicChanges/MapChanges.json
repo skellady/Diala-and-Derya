@@ -12,7 +12,7 @@
 		"Target": "Maps/Custom_DND_DDHouse",
 		"FromFile": "Assets/Maps/MoonHideout.tmx",
 		"FromArea": { "X": 0, "Y": 0, "Width": 1, "Height": 1 },
-		"ToArea": { "X": 17, "Y": 14, "Width": 1, "Height": 1 },
+		"ToArea": { "X": 10, "Y": 18, "Width": 1, "Height": 1 },
 		"PatchMode": "ReplaceByLayer",
 		"When": { "Time": "{{Range: 1200, 2100}}", "HasSeenEvent: |contains=20031403": false },
 		"Update": "OnLocationChange, OnTimeChange"
@@ -22,7 +22,7 @@
         "Target": "Maps/Custom_DND_DDHouse",
         "MapTiles": [
 			{
-				"Position": { "X": 17, "Y": 14 },
+				"Position": { "X": 10, "Y": 18 },
 				"Layer": "Buildings",
 				"SetProperties": {
 				"Action": "MessageOnce 20031402 '???: {{i18n:Finding.Moon}}'"
@@ -37,7 +37,7 @@
         "Target": "Maps/Custom_DND_DDHouse",
         "MapTiles": [
 			{
-				"Position": { "X": 17, "Y": 14 },
+				"Position": { "X": 10, "Y": 18 },
 				"Layer": "Buildings",
 				"SetProperties": {
 				"Action": "Message dd.moonhide"
